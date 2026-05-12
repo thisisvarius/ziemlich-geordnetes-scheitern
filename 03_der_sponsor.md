@@ -454,7 +454,11 @@ Ich erlebe selten, dass Eddy sprachlos ist. Es steht ihm nicht. "Du verstehst wi
 
 "Aber Eddy hat doch recht", sage ich.
 
-Frank sieht mich an. "Ihr wollt recht haben. Ich will gewinnen."
+Frank sieht mich an. "Das kann sein."
+
+"Was?"
+
+"Dass er recht hat." Frank schaut zu den Folien. "Nur hilft mir das gerade nicht genug."
 
 Eddy lacht kurz. "Natürlich. Wenn jemand anders meine Arbeit verkauft, ist das also mein Eitelkeitsproblem."
 

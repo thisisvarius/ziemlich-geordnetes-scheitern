@@ -160,7 +160,7 @@ Nora schaut wieder auf den Bildschirm. "Wenn du nur zeigen willst, dass es wirts
 
 Nora sagt das alles so, als sei es nicht nur eine Rechnung, sondern eine Einstellungssache. Frank sieht zufrieden aus. So, wie er aussieht, wenn eine neue Person in den Raum kommt und diese sofort in seinem gewünschten Tempo spricht.
 
-"Genau deshalb wollte ich euch kurz zusammenbringen. Wirtschaftsplanung ist genau das, was wir jetzt machen müssen", sagt er. Man merkt, er hat das Wort aufgeschnappt und muss erst einmal probieren, wie er es in seine Story einbetten kann. Es klingt gut, was genau dahinter steht ist da erst einmal zweitrangig.
+"Deshalb wollte ich euch kurz zusammenbringen", sagt er. "Wirtschaftsplanung. Das ist... ja, das ist eigentlich genau der richtige Begriff für das, was wir jetzt brauchen." Man merkt, er hat das Wort aufgeschnappt und muss erst einmal probieren, wie er es in seine Story einbetten kann. Es klingt gut, was genau dahinter steht ist da erst einmal zweitrangig.
 
 Nora zeigt auf meine Zeile mit den zweihundert Leads. "Woher kommt die Zahl?"
 
@@ -339,9 +339,9 @@ Frank sieht mein Gesicht und hebt die Augenbrauen. "Was?"
 
 "Du nimmst Joachims Wunsch und machst daraus meine Bitte."
 
-"Das ist Management", sagt Frank.
+"Ja", sagt Frank. "Und?"
 
-Er sagt es ohne Ironie.
+Er meint es nicht einmal zynisch.
 
 Ich gehe zurück ins Großraumbüro. Auf meinem Bildschirm wartet die Tabelle. Die 1,8 Millionen stehen noch immer da, unbeeindruckt von meiner kleinen Runde durch die Hierarchie.
 
@@ -1434,9 +1434,9 @@ Dann redet plötzlich jeder.
 
 "Eine Kapazitätslogik ist kein Lieferplan", sagt Marta.
 
-"Eine Entscheidungsunterlage braucht Richtung", sagt Frank. "Hans finanziert uns keine Sammlung offener Fragen."
+"Eine Entscheidungsunterlage braucht trotzdem eine Richtung", sagt Frank. "Hans finanziert uns doch nicht... also keine Liste von Dingen, die wir noch nicht wissen."
 
-"Ein Umsatzpfad ohne reale Opportunities ist auch nur eine Sammlung offener Fragen", sagt Nora. "Nur mit schönerer Kurve."
+"Ein Umsatzpfad ohne reale Opportunities ist genau so eine Liste", sagt Nora. "Nur mit Kurve."
 
 "Die Risiken waren sichtbar", sage ich.
 
@@ -1502,15 +1502,15 @@ Marta schließt ihren Laptop ein Stück. Frank lächelt gequält. Ich halte den 
 
 Frank atmet hörbar aus, aber er unterbricht sie nicht.
 
-"Auf der Sachebene", sagt Nora und zeigt auf die Folie, "steht hier: zwei Varianten, offene Annahmen, Pipeline, Kapazität, ROI. Das kann man diskutieren."
+"Auf der Sachebene", sagt Nora und zeigt auf die Folie, "steht hier: zwei Varianten, Annahmen, Pipeline, Kapazität, ROI. Darüber kann man reden."
 
 Sie tippt mit dem Stift auf den oberen Rand der Folie.
 
-"Auf der Selbstoffenbarungsebene sagt die Datei: Wir wissen es noch nicht, aber wir wollen entscheidungsfähig wirken."
+"Auf der Selbstoffenbarungsebene sagt die Datei..." Nora sucht kurz nach dem Wort. "Wir wissen es noch nicht, aber wir wollen schon entscheidungsfähig aussehen."
 
 Ich spüre, wie die anderen ihr Stück für Stück mehr Aufmerksamkeit schenken.
 
-"Auf der Beziehungsebene", fährt Nora fort, "kommt bei Marta an: Dein Team ist verfügbare Ressource. Bei mir kommt an: Deine Marktannahmen sind belastbar genug für eine Umsatzzusage an unseren Aufsichtsrat. Und bei dir", sie zeigt mit dem Stift auf mich, nicht unfreundlich, "kommt gerade an: Ihr unterstellt mir Absicht."
+"Auf der Beziehungsebene", fährt Nora fort, "kommt bei Marta an: Dein Team ist verfügbare Ressource. Bei mir kommt an: Sales hat das schon irgendwie im Griff. Und bei dir", sie zeigt mit dem Stift auf mich, nicht unfreundlich, "kommt gerade an: Wir unterstellen dir Absicht."
 
 Kurz will ich widersprechen. Ich lasse es. Sie hat recht. Unser Streit ging nicht nur über die Sache.
 
@@ -1528,11 +1528,11 @@ Marta nickt langsam. "Auf der Sachebene kann ich mit dem Lernpfad leben. Auf der
 
 Es ist nicht das erste Mal an diesem Vormittag, dass dieser Unterschied im Raum steht. Es ist nur das erste Mal, dass ich ihn von allen Seiten sehe. Meine Achtung vor Nora ist in den letzten Minuten deutlich gestiegen. Sie hat es geschafft, mit einer Systematik, an die jeder andocken kann, eine Reflexion unseres eigenen Verhaltens zu erzwingen.
 
-Frank geht einen Schritt zum Bildschirm. "Auf der Appellebene brauchen wir eine Richtung. Sonst bekommen wir keine nächste Entscheidung. Hans finanziert uns keine Unsicherheit."
+Frank geht einen Schritt zum Bildschirm. "Auf der Appellebene brauchen wir trotzdem eine Richtung. Sonst bekommen wir keine nächste Entscheidung. Hans finanziert uns nicht dafür, dass wir sauber unsicher sind."
 
-"Dann müssen wir Unsicherheit so formulieren, dass den Entscheidern klar ist, welche Verantwortung sie übernehmen", sagt Nora. "Aber nicht so, dass sie wie ein Versprechen unsererseits aussieht."
+"Dann müssen wir die Unsicherheit so formulieren, dass klar ist, wer was trägt", sagt Nora. "Nicht so, dass es am Ende wie unser Versprechen aussieht."
 
-Die Frau aus der Konzernstrategie hebt zum ersten Mal den Kopf. "Das ist tatsächlich der Punkt. Wenn diese Unterlage später in den Unterschriftenlauf geht, muss klar sein, welches Risiko von wem getragen werden muss."
+Die Frau aus der Konzernstrategie hebt zum ersten Mal den Kopf. "Das ist tatsächlich der Punkt. Wenn diese Unterlage später in den Unterschriftenlauf geht, muss das erkennbar sein. Wer trägt welches Risiko, wer entscheidet was."
 
 Ich sehe sie an. Bis eben hatte ich gehofft, sie schreibe nur mit. Jetzt stellt sich heraus, dass sie auch zuhört.
 
@@ -1706,7 +1706,7 @@ Ich lege die beiden Klötze auf den Tisch.
 
 Ich sehe ihn an.
 
-Er zeigt auf den ersten Klotz. "Da liegt sie. Die Sachebene. Rechnung prüfen, Annahmen zerlegen, Risiken sichtbar machen, Frank daran hindern, aus einem Risiko eine Zusage an den Aufsichtsrat zu bauen."
+Er zeigt auf den ersten Klotz. "Da liegt sie. Die Sachebene. Rechnung prüfen, Annahmen zerlegen, Risiken sichtbar machen." Er sieht mich an. "Und Frank daran hindern, aus einem Risiko... na ja. Du weißt schon."
 
 Dann zeigt er auf den zweiten Klotz.
 
@@ -1714,7 +1714,11 @@ Dann zeigt er auf den zweiten Klotz.
 
 "Die Beziehungsebene?"
 
-"Dass ich nicht gut genug war um im Workshop sein zu dürfen. Dass ich nicht in den Steuerkreis durfte, weil Frank mir nicht vertraut. Dass du die Datei verschickt hast, ohne mich zu fragen, weil du mir auch nicht traust. Dass ich jetzt wieder gut genug bin, um deine Rechnung kaputtzumachen, aber nicht wichtig genug, um dabei zu sein, wenn sie entsteht."
+"Dass ich nicht gut genug war, um im Workshop zu sitzen. Dass ich im Steuerkreis störe. Dass du die Datei verschickst, ohne mich zu fragen, und jetzt hier stehst, weil dir aufgefallen ist, dass ich doch noch nützlich bin."
+
+Er schiebt den Klotz ein Stück von sich weg.
+
+"So ungefähr."
 
 Ich setze mich nicht sofort. Es fühlt sich falsch an, als könne ich mir einen Platz nehmen, bevor ich erklärt habe, warum ich überhaupt hier bin.
 
@@ -1740,7 +1744,7 @@ Ich setze mich nun doch und schiebe die beiden Holzklötze ein Stück auseinande
 
 Ich lasse den Satz stehen.
 
-"Auf der Sachebene brauche ich dich", sage ich. "Ohne deine Gegenprüfung wird die Rechnung zu glatt. Frank wird sie mögen, Hans wird sie verstehen wollen, Konzernstrategie wird sie in einen Prozess übersetzen, und irgendwann fragt jemand nach der ersten Zahl, die niemand mehr erklären kann."
+"Auf der Sachebene brauche ich dich", sage ich. "Ohne deine Gegenprüfung wird die Rechnung zu glatt. Frank wird sie mögen, Hans wird sie verstehen, Konzernstrategie macht einen Prozess daraus, und dann..." Ich suche nach dem Ende. "Dann hängt irgendwo eine Zahl, die keiner mehr richtig anfassen will."
 
 Joachim sagt nichts.
 
@@ -1826,7 +1830,7 @@ Er beugt sich vor und nimmt den Sach-Klotz zwischen zwei Finger.
 
 Joachim dreht den Klotz auf die schmale Seite und balanciert ihn dort einen Moment. "Und was genau soll ich tun?"
 
-"Die Annahmen prüfen. Nicht nur die Formeln. Die Logik. Wo wird aus einem Lernschritt eine Lieferzusage? Wo wird aus einer Marktannahme ein Forecast? Wo wird aus Support durch Marketing ein Produktversprechen? Wo verstecken wir Kosten, weil sie in keiner Spalte schön aussehen?"
+"Die Annahmen prüfen. Nicht nur die Formeln. Die Logik." Ich zähle an den Fingern ab und merke, dass es zu kontrolliert wirkt. "Wo machen wir aus einem Lernschritt schon eine Lieferzusage? Wo rutscht eine Marktannahme in den Forecast? Wo klingt Marketing plötzlich wie ein Produktversprechen? Solche Sachen."
 
 "Und wenn ich sage, dass die Zielvariante Unsinn ist?"
 
@@ -1850,7 +1854,7 @@ Das ist der Moment, in dem ich vorsichtig werden muss. Joachim kann jeden Satz, 
 
 Ich nehme den zweiten Klotz, den für die Beziehungsebene, und drehe ihn zwischen den Fingern.
 
-"Ich brauche dich nicht nur, damit die Rechnung weniger falsch wird", sage ich. "Ich brauche dich, weil du einer der wenigen bist, die dieses Thema wirklich vorantreiben können, ohne sich von der ersten schönen Folie beruhigen zu lassen."
+"Ich brauche dich nicht nur, damit die Rechnung weniger falsch wird", sage ich. "Ich brauche dich, weil du..." Ich halte kurz inne. "Weil du dich von der ersten schönen Folie nicht beruhigen lässt. Und weil das gerade fehlt."
 
 Joachim schaut auf den Klotz in meiner Hand.
 

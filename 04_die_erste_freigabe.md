@@ -475,9 +475,9 @@ Frank legt die Hände auf die Tastatur, schreibt aber nicht weiter. "Wir haben e
 
 Frank schaut aus dem Fenster auf die Autobahn. "Ich kann Hans keinen Lernversuch verkaufen."
 
-"Dann verkauf ihm nicht, dass wir mehr bauen", sagt Marta.
+"Dann verkauf ihm nicht..." Marta sucht kurz nach dem Wort. "Nicht mehr, als da ist."
 
-"Ich verkaufe ihm, dass wir auf dem Weg sind", sagt Frank. "Intern können wir das gern Lernversuch nennen. Im Steuerkreis braucht es eine Sprache, die nach Führung klingt."
+"Ich verkaufe ihm, dass wir auf dem Weg sind", sagt Frank. "Intern können wir das gern Lernversuch nennen. Im Steuerkreis kann ich damit nicht auftreten."
 
 Joachim dreht den Kopf langsam nach hinten. "Das ist genau der Satz, bei dem später niemand mehr weiß, wo der Weg endet."
 
@@ -489,7 +489,7 @@ Ich sehe im Rückspiegel, wie Frank kurz zu mir schaut. Nicht lange. Nur lang ge
 
 Ich fahre auf die linke Spur, überhole einen Lastwagen und merke, dass der Verkehr um uns herum einfacher sortiert ist als unser Projekt. Rechts langsam, links schneller, Blinker, Abstand, klare Regeln. Bei uns wäre selbst der Spurwechsel wahrscheinlich erst nach Abstimmung mit drei Stakeholdern freigegeben worden.
 
-"Wir reden über fünf Dinge", sagt Joachim. "Messe-Demo, Messe-Demonstrator, interner Demonstrator, Pilot, Produkt. Und Frank, du benutzt für alle fünf dasselbe Wort."
+"Wir reden über fünf Dinge", sagt Joachim. "Messe-Demo, Messe-Demonstrator, interner Demonstrator, Pilot, Produkt." Er tippt mit dem Finger gegen die Kopfstütze. "Und du machst daraus ein Wort."
 
 "Weil jedes zusätzliche Wort die Folie schlechter macht", sagt Frank.
 
@@ -513,7 +513,7 @@ Frank lässt die Finger über der Tastatur schweben. Das ist bei ihm selten ein 
 
 "Intern ist es ein Lernversuch", sagt Marta. "Wenn du es extern anders nennst, muss trotzdem intern klar bleiben, was wir bauen."
 
-"Genau deshalb sitzen wir im Auto und klären es", sagt Frank. "Damit ich draußen groß genug sprechen kann, ohne dass ihr drinnen in die falsche Richtung baut."
+"Genau deshalb sitzen wir im Auto und klären es", sagt Frank. "Damit ich draußen... groß genug sprechen kann, und ihr drinnen nicht aus Versehen etwas anderes baut."
 
 "Das ist erstaunlich ehrlich", sagt Joachim. "Für deine Verhältnisse."
 
@@ -531,7 +531,7 @@ Joachim dreht den Kopf ein kleines Stück zu ihr. "Wie viele Fehlerbilder?"
 
 "Es ist klein", sagt Marta. "Und genau deshalb kann ein Besucher verstehen, was passiert."
 
-"Es ist ein Lernversuch", sagt Joachim. "Wir testen, ob Menschen begreifen, dass sie dem System ihr Qualitätswissen zeigen können, statt eine fertige Blackbox zu kaufen."
+"Es ist ein Lernversuch", sagt Joachim. "Wir testen, ob Menschen überhaupt verstehen, was da passiert. Ob sie dem System ihr Qualitätswissen zeigen können. Nicht mehr."
 
 Frank sieht ihn an. "Kann man das so sagen?"
 

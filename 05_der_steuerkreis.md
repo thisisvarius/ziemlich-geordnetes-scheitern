@@ -140,7 +140,7 @@ Also rede ich.
 
 Hans nickt. Es ist eher inventarisierend. "Verstehe." Ich höre innerlich wie er uns gerade in eine Schublade gesteckt hat. Ich bin mir noch nicht sicher, wer da mit uns drin ist, aber irgendwas ist hier gerade passiert.
 
-Frank übernimmt wieder. "Genau deshalb sprechen wir von einem Pilotpfad mit Messe-Fokus. Wir zeigen die Interaktion, sammeln Feedback und entscheiden danach, welche weiteren Features oder Zielbranchen wir priorisieren, je nachdem, welche Zielgruppe wir als Nächstes überzeugen wollen."
+Frank übernimmt wieder. "Darum nennen wir es Pilotpfad mit Messe-Fokus. Wir zeigen die Interaktion, sammeln Feedback und entscheiden danach, was als Nächstes sinnvoll ist. Features, Zielbranchen, all das."
 
 "Das ist sauber", sagt Hans.
 
@@ -462,13 +462,13 @@ Auf dem Flur sagt er: "Du musst lernen, in solchen Momenten nicht traurig auszus
 
 "Joachim gehört in den Steuerkreis."
 
-Frank bleibt stehen. "Du willst recht haben. Ich will gewinnen."
+Frank bleibt stehen. "Ich weiß."
 
 Er sagt es ohne Schärfe. Gerade deshalb bleibt es hängen.
 
 "Und wenn wir weitermachen dürfen, obwohl Joachim recht hat?"
 
-"Dann solltest du dafür sorgen, dass seine Risiken in deiner Unterlage stehen."
+"Dann sorg dafür, dass seine Risiken drinstehen."
 
 "Und wenn sie keiner lesen will?"
 

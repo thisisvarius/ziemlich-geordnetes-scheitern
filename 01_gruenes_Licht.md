@@ -571,7 +571,11 @@ Frank bleibt erstaunlich ruhig. Vielleicht gerade deshalb, weil um uns herum gen
 
 Er zeigt auf den Stand.
 
-"Im Augenblick haben wir genau zwei Aufgaben: erstens etwas hinstellen, das funktioniert. Zweitens dabei nicht so auszusehen, als würden wir uns gegenseitig an die Gurgel gehen wollen."
+"Im Augenblick haben wir zwei Aufgaben. Eigentlich drei." Er sieht kurz zum Nachbarstand. "Irgendwas hinstellen, das funktioniert. Oder wenigstens funktioniert genug. Und dabei nicht aussehen, als würden wir uns gleich gegenseitig..."
+
+Er bricht ab.
+
+"Ihr wisst, was ich meine."
 
 Dann dreht er sich zum Techniker. "Und drittens sorgen wir dafür, dass der einzige Mensch, der hier noch Kabel in der Hand hat, nicht bereut, uns geholfen zu haben."
 
@@ -587,7 +591,7 @@ Ich weiß sofort, dass ich zu weit bin. Leider bin ich noch nicht weit genug, um
 
 Der Techniker schaut auf sein Kabel. Eddy schaut auf mich. Zwei Leute vom Nachbarstand tun so, als würden sie eine Kiste beschriften.
 
-Frank spricht leiser. "Wenn du recht haben willst, mach weiter. Wenn du morgen eine Demo willst, hilf."
+Frank spricht leiser. "Du kannst jetzt weiter erklären, warum das hier alles falsch ist. Wirklich. Stimmt wahrscheinlich sogar." Er deutet auf den Stand. "Oder du hilfst mir, dass wir morgen nicht komplett baden gehen."
 
 Eddy richtet sich auf.
 
