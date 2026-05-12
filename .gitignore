@@ -1,0 +1,18 @@
+# Generated manuscript outputs
+*.pdf
+*.tex
+
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.idx
+*.log
+*.synctex.gz
+*.toc
+
+# Local/editor files
+*.swp
+
+# Local agent metadata
+.agents/
+.codex/
