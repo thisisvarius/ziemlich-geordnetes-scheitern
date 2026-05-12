@@ -82,6 +82,18 @@ Er sagt es ruhig, aber sein Gesicht ist härter als vor dem Termin. Eben noch wa
 
 "Eine Idee ohne Besitzer ist eine Beschäftigungsmaßnahme", sagt er. "Und ich lasse nicht zu, dass wir zur Beschäftigungsmaßnahme werden."
 
+Dann dreht er sich zu mir. Die Härte ist noch da, aber sie richtet sich nicht mehr gegen den Raum.
+
+"Du hast die Unterlage gut gebaut", sagt er.
+
+Ich bin so überrascht, dass ich nichts antworte.
+
+"Nicht gut genug für Hans", ergänzt er. "Aber gut genug, dass er nicht einfach Nein sagen konnte. Das ist nicht nichts."
+
+Er nimmt den Ausdruck aus meiner Hand, klappt ihn zu und schlägt mit der flachen Hand leicht darauf.
+
+"Jetzt brauchen wir jemanden, der es sagen darf, ohne dass es nach unserer eigenen Hoffnung klingt."
+
 Am Nachmittag sitzen wir zu viert in einem kleinen Besprechungsraum: Frank, Eddy, Joachim und ich.
 
 Frank berichtet. Joachim hört mit jener Miene zu, mit der andere Menschen Kontoauszüge prüfen. Eddy sitzt schräg am Tisch, die Arme verschränkt, und sagt lange nichts.

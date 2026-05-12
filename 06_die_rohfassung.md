@@ -1414,7 +1414,25 @@ Es wird still. Genau so lange, wie jeder braucht, um die Vorwürfe in seinem Kop
 
 Dann redet plötzlich jeder.
 
-Marta sagt, dass eine Kapazitätslogik kein Lieferplan ist. Frank sagt, dass eine Entscheidungsunterlage nun einmal eine Richtung braucht - kein Budget ohne Versprechungen. Nora sagt, dass ein Umsatzpfad ohne reale Opportunities keinerlei kaufmännische Belastbarkeit hat. Ich sage, dass alle Risiken sichtbar waren. Marta hakt ein und fragt, sichtbar für wen. Frank probiert es gewohnt ruhig und zuversichtlich und fordert jetzt bitte keine Grundsatzdebatte. Nora sagt, genau das sei die Grundsatzdebatte. Nur die Frau aus der Konzernstrategie schreibt still weiter, was mich noch nervöser macht als jede Wortmeldung.
+"Eine Kapazitätslogik ist kein Lieferplan", sagt Marta.
+
+"Eine Entscheidungsunterlage braucht Richtung", sagt Frank. "Hans finanziert uns keine Sammlung offener Fragen."
+
+"Ein Umsatzpfad ohne reale Opportunities ist auch nur eine Sammlung offener Fragen", sagt Nora. "Nur mit schönerer Kurve."
+
+"Die Risiken waren sichtbar", sage ich.
+
+Marta sieht mich an. "Sichtbar für wen?"
+
+"Für jeden, der die Datei gelesen hat."
+
+"Hans hat keine Datei gelesen", sagt Nora. "Hans hat eine Botschaft gehört."
+
+Frank hebt beide Hände, nicht hoch, nur so weit, dass der Raum ihn wieder registriert. "Wir machen jetzt bitte keine Grundsatzdebatte."
+
+"Doch", sagt Nora. "Genau das ist die Grundsatzdebatte."
+
+Die Frau aus der Konzernstrategie schreibt still weiter, was mich noch nervöser macht als jede Wortmeldung.
 
 Nach zehn Minuten habe ich drei Sätze gesagt und jeden davon bereut.
 
@@ -1429,6 +1447,18 @@ Nach fünfzehn Minuten verteidige ich nicht mehr die Datei. Ich verteidige mich.
 Der Satz fällt in den Raum und bleibt dort liegen, wo niemand ihn aufheben möchte.
 
 Frank sieht mich an. Nur kurz. Nicht wütend. Eher überrascht, dass ich gerade versuche, die Richtung meiner eigenen Datei von ihrer Verwendung zu trennen.
+
+"Ja", sagt Frank.
+
+Ich schaue zu ihm.
+
+"Ich habe entschieden, sie Hans zu zeigen", sagt er. "Nicht du."
+
+Für einen Moment bin ich dankbar.
+
+Dann ergänzt er: "Und ich würde es wieder tun, weil wir sonst immer noch darüber reden würden, ob wir irgendwann über Skalierung reden dürfen."
+
+Die Dankbarkeit bleibt. Das Misstrauen auch.
 
 Nora lehnt sich zurück. "Stopp."
 

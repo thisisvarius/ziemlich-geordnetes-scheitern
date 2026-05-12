@@ -16,6 +16,10 @@ Name: Dr. Frank Köhler
 - Sehr gut in Stakeholder-Management auf Führungsebene  
 - Kann Ideen in „verkaufbare Stories“ übersetzen  
 - Erkennt früh, was intern und extern anschlussfähig ist  
+- Kann einem Raum Energie geben, wenn andere nur noch Risiken sehen
+- Schützt Menschen in kritischen Momenten vor Gesichtsverlust, auch wenn er sie später taktisch benutzt
+- Übernimmt Verantwortung nach außen so glaubwürdig, dass andere ihm dafür innen mehr Spielraum geben
+- Improvisiert unter Druck schnell und konkret; sein Charisma entsteht oft aus der Fähigkeit, Panik in Arbeit zu verwandeln
 - Bleibt in operativen Krisen oft erstaunlich ruhig  
 - Kann Spannungen kurzfristig in Handlungsfähigkeit übersetzen  
 - Erkennt schnell, wann externe Legitimation intern mehr Wirkung hat als eigene Fachargumente  
@@ -31,6 +35,8 @@ Name: Dr. Frank Köhler
 - Reduziert technische Tiefe schnell auf Kommunikationsprobleme („Story-Problem“)  
 - Unterschätzt operative und organisatorische Komplexität  
 - Treibt Lösungen über Packaging statt Substanz  
+- Verwechselt die Energie, die er erzeugt, gelegentlich mit Zustimmung
+- Nutzt Fürsorge und Schutz auch als Bindungsinstrument: Wer sich von ihm gesehen fühlt, arbeitet danach oft härter für seine Richtung
 - Verwechselt externe Bestätigung leicht mit inhaltlichem Fortschritt  
 - Rechtfertigt sich über Wirksamkeit: Wenn die Organisation nur auf bestimmte Signale reagiert, hält er es für legitim, diese Signale zu erzeugen
 - Macht aus vorsichtigen Arbeitsbegriffen schnell Führungssprache, die nach Richtung klingt
@@ -42,6 +48,7 @@ Name: Dr. Frank Köhler
 - Will Geschwindigkeit und Wirkung nach außen  
 - Braucht dafür interne Zustimmung, die er selbst nur teilweise orchestrieren kann  
 - Gerät zwischen Anspruch und Realität  
+- Ist nicht nur Blender: Er sieht Chancen wirklich, manchmal früher als andere. Gefährlich wird er dort, wo er nicht mehr unterscheiden will, ob er eine Wahrheit entdeckt oder eine brauchbare Erzählung erzeugt hat
 - Ist stärker, wenn improvisiert werden muss, als wenn Substanz sauber aufgebaut werden müsste  
 - Sieht in Beratern vor allem ein Mittel, Themen oben entscheidungsfähig zu machen, auch wenn fachlich kaum Neues entsteht  
 - Verkörpert den Business-Pol des späteren Konflikts mit der Entwicklung, ohne ihn je offen so zu benennen
@@ -57,6 +64,8 @@ Name: Dr. Frank Köhler
 - „Das muss sexy sein – sonst passiert hier gar nichts.“  
 - „Doch. Eigentlich schon.“  
 - „Du willst recht haben. Ich will gewinnen.“
+- "Ich nehme das nach oben. Ihr macht es unten belastbar."
+- "Wir machen jetzt aus Nervosität Arbeit."
 - „Wirtschaftsplanung ist genau das, was wir jetzt machen müssen.“
 - "Dann muss die Rechnung anders tragen."
 - "Nicht unrealistisch. Ambitioniert."

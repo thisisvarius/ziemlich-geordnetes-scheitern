@@ -170,7 +170,15 @@ Für einen Moment ist der Raum nicht mehr groß. Er ist sehr klein und sehr hell
 
 "Meine", sage ich, obwohl ich genau weiß, dass Joachim diesen Case mit mir ausgearbeitet hat und jetzt nicht dabei sein darf.
 
-Frank bewegt sich nicht. Marta schaut auf den Laptop. 
+Frank bewegt sich nicht. Marta schaut auf den Laptop.
+
+"Die Rechenlogik ist aus seinem Modell", sagt Frank. "Die Entscheidung, sie hier als Realistic Case zu zeigen, ist meine."
+
+Hans sieht zu ihm.
+
+Frank bleibt ruhig. "Wenn die Annahmen nicht tragen, müssen wir sie ändern. Aber wir haben sie nicht versteckt."
+
+Ich merke, wie der Satz mich schützt und zugleich bindet. Frank nimmt mir für den Moment den Druck vom Hals. Gleichzeitig gehört mein Modell jetzt noch deutlicher zu seiner Richtung.
 
 "Gut", sagt Hans. "Dann müssen wir verstehen, was wir tun müssen, damit diese Annahmen Realität werden."
 
@@ -205,6 +213,8 @@ Frank nickt, sehr langsam.
 Ich merke, wie er innerlich die Folie wechselt, obwohl auf dem Bildschirm noch immer das Bild des Modellventils zu sehen ist.
 
 "Wir müssten das dann stärker als skalierbares Plattformmodell denken", sagt Frank. "Mit klarer Roadmap, adressierbaren Anwendungsfeldern, belastbarer Kommerzialisierung und einer Organisation, die das tragen kann."
+
+Er sagt es nicht hastig. Er sagt es, als habe der Raum ihm gerade nicht den Boden verschoben, sondern eine Karte gereicht. Das ist der Moment, in dem ich verstehe, warum Menschen Frank folgen: Er klingt nicht unbesorgt. Er klingt, als könne Sorge in Richtung übersetzt werden.
 
 Hans sieht ihn an. Nicht lange. Nur lange genug, dass alle am Tisch verstehen, wer den Satz jetzt in eine Unterlage verwandeln soll.
 
@@ -266,6 +276,18 @@ Marta dreht sich zu ihm. "Wir waren offenbar in verschiedenen Terminen."
 
 "Das ist immerhin eine Tür."
 
+"Für wen?", fragt Marta. "Für dich oder für das Team?"
+
+Frank bleibt stehen. Zum ersten Mal seit wir den Raum betreten haben, schreibt er nichts und geht auch nicht weiter.
+
+"Für uns", sagt er. "Und ja, ich weiß, wie das klingt."
+
+"Dann sag es anders."
+
+Frank nickt, als nehme er die Korrektur an, ohne sie zu mögen. "Wenn wir diesen Auftrag nicht annehmen, entscheidet jemand anders, was aus dem Thema wird. Dann wird es entweder kleinbudgetiert oder groß erzählt, nur ohne uns. Ich will, dass wir im Raum bleiben."
+
+Marta antwortet nicht sofort. Das ist bei ihr mehr Zustimmung, als Frank sonst bekommt.
+
 Joachim massiert sich mit beiden Händen die Schläfen. "Es ist vor allem ein ganz anderes Vorhaben."
 
 Frank nimmt einen Stift und schreibt an das Whiteboard:
@@ -285,6 +307,14 @@ ORGANISATION
 "Wir haben gerade erst beschlossen, es klein genug zu halten, damit wir es bauen können", sagt Marta.
 
 "Und jetzt müssen wir es groß genug erzählen, damit wir es weiter bauen dürfen."
+
+"Das ist genau die Stelle, an der du gefährlich wirst", sagt Joachim.
+
+Frank sieht ihn an. "Ich weiß."
+
+Joachim lacht nicht. "Das macht es nicht besser."
+
+"Nein", sagt Frank. "Aber ehrlicher."
 
 Frank malt einen Pfeil von _Messe-Demonstrator_ zu _Plattform_. Dann einen zweiten Pfeil von _Plattform_ zu _Group Impact_.
 

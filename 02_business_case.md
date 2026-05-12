@@ -579,6 +579,12 @@ Frank sieht am nächsten Morgen kurz darüber, lehnt sich zurück und nickt.
 
 "Die Annahmen bleiben drin", sagt er. "Wenn die fehlen, hängen sie mich später, wenn alles schief geht."
 
+"Und uns vorher", sagt Joachim.
+
+Frank sieht ihn an. "Genau deshalb bleiben sie drin."
+
+Das ist einer dieser Momente, in denen ich Frank fast bewundere. Er nimmt Joachims Misstrauen nicht persönlich. Er faltet es zusammen, steckt es in seine eigene Logik und macht daraus einen Grund, weiterzugehen.
+
 Ich nicke.
 
 Joachim sagt nichts.
@@ -598,6 +604,14 @@ In den Anhang.
 "Sie darf auf keinen Fall wegfallen", sagt er. "Aber vorne erschlägt sie uns die Geschichte."
 
 Joachim sieht ihn an, als wolle er ausrechnen, wie viele Probleme man mit einer einzigen höflichen Formulierung gleichzeitig erzeugen kann.
+
+"Du versteckst sie", sagt er.
+
+"Nein", sagt Frank. "Ich verhindere, dass Hans auf Seite drei aussteigt."
+
+"Das ist eine elegante Beschreibung für Verstecken."
+
+Frank bleibt erstaunlich freundlich. "Joachim, wenn ich sie verstecken wollte, wäre sie nicht im Dokument. Ich will, dass sie auffindbar ist, wenn jemand Verantwortung übernehmen muss. Vorne brauche ich, dass jemand überhaupt weiterliest."
 
 Ich sage nichts.
 

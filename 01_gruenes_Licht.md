@@ -573,6 +573,10 @@ Er zeigt auf den Stand.
 
 "Im Augenblick haben wir genau zwei Aufgaben: erstens etwas hinstellen, das funktioniert. Zweitens dabei nicht so auszusehen, als würden wir uns gegenseitig an die Gurgel gehen wollen."
 
+Dann dreht er sich zum Techniker. "Und drittens sorgen wir dafür, dass der einzige Mensch, der hier noch Kabel in der Hand hat, nicht bereut, uns geholfen zu haben."
+
+Der Techniker sieht kurz auf. Zum ersten Mal an diesem Abend wirkt er nicht nur zuständig, sondern beteiligt.
+
 "Das ist doch genau dein Problem", sage ich.
 
 Frank sieht mich an.
@@ -594,6 +598,14 @@ An diesem Abend grinse ich nicht.
 Auch Frank nicht.
 
 Dann krempelt Frank die Hemdärmel hoch, nimmt sich selbst ein Kabel und sagt dem Techniker in einem Ton, der plötzlich ganz ohne Management auskommt, was bis wann noch stehen muss.
+
+"Du", sagt er zu mir, "besorgst alles, was aussieht wie Fertigung. Egal wie lächerlich. Eddy, du entscheidest, was davon technisch am wenigsten beleidigend ist."
+
+"Ein großer Abend für meine Karriere", sagt Eddy.
+
+"Für unser aller Karriere", sagt Frank. "Also bitte mit Stil."
+
+Es ist kein guter Witz. Trotzdem atmet der Stand anders. Der Techniker greift schneller in die nächste Kiste. Ich nehme mein Handy. Selbst Eddy sieht für einen Moment so aus, als habe er lieber ein schlechtes Problem mit Auftrag als ein gutes Problem ohne Richtung.
 
 Es wird spät.
 
