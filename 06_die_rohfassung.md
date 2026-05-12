@@ -1611,6 +1611,19 @@ Marta packt ihren Laptop ein. Nora bleibt noch einen Moment sitzen und sieht mic
 
 Dann steht sie auf.
 
+Marta klappt ihren Laptop zu, aber sie steckt ihn nicht sofort ein. "Ich schicke dir meine Punkte schriftlich", sagt sie.
+
+"Gern", sage ich.
+
+"Mit Bedingungen", ergänzt sie. "Nicht als Freifahrtsschein."
+
+Nora nickt. "Ich auch. Pipeline, Forecast, Zielbild. Drei getrennte Dinge. Und Frank in CC, damit später niemand aus dem einen das andere macht."
+
+Frank, der schon halb an der Tür ist, dreht sich nicht um. "Sehr gut. Dann haben wir es sauber dokumentiert."
+
+Es klingt, als hätte er gerade keine Niederlage gehört, sondern einen weiteren Baustein für die Unterlage bekommen.
+
+Ich merke erst in diesem Moment, was der Workshop gekostet hat. Marta und Nora helfen weiter. Aber sie helfen nicht mehr offen. Sie helfen mit Vorbehalt, Fußnoten und Verteiler.
 
 Als ich zurück an meinen Schreibtisch komme, wartet Yvonne neben meinem Platz. In der Hand hält sie ein gelbes Post-it und ihr Diensthandy. Früher hätte ich sie automatisch als Eddys Sekretärin vorgestellt. Das stimmt inzwischen nicht mehr. Eddy ist im Konzern nicht mehr wichtig genug, um eine eigene Assistenz zu rechtfertigen, jedenfalls nicht offiziell. Yvonne ist jetzt Team-Assistenz, was in der Praxis bedeutet, dass Eddy sie noch immer für alles fragt und sie zusätzlich uns allen ab und zu bei banalen Dingen hilft.
 

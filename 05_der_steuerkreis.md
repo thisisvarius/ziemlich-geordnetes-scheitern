@@ -246,6 +246,10 @@ Damit ist es passiert.
 
 Vor einer Minute war es noch eine Richtung. Jetzt ist es ein Punkt mit Verantwortlichem.
 
+Frank sieht auf den Bildschirm der Assistenz und nickt ebenfalls. Nicht zu stark. Nur so, dass es wie Zustimmung zur sauberen Protokollierung aussieht.
+
+Er weiß, was gerade passiert. Ein Beschluss wäre angreifbar gewesen. Ein OPL-Punkt ist nur Arbeit. Niemand muss heute sagen, dass wir eine Plattform bauen. Aber ab jetzt müssen wir erklären, warum wir nicht an einer arbeiten.
+
 Drei bis fünf Jahre.
 
 Ich spüre, wie aus einem Messe-Demonstrator ein Zeitraum wird.

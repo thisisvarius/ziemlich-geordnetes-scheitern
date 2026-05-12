@@ -12,6 +12,11 @@ Diese Datei beginnt mit `90_` und wird vom Makefile nicht in das Buch-PDF übern
 - Joachim erkennt konstruierte Zahlen und politische Schönfärberei, schützt sich aber über Dokumentation und Annahmen statt über offene Eskalation.
 - Die zentrale Wahl des Protagonisten: Will er werden wie Frank, der das Spiel gewinnt, oder wie Eddy, der es durchschaut und sich entzieht?
 - Konsequenzen müssen früher spürbar werden: ein Werk eskaliert, ein Kunde beschwert sich, ein Rollout scheitert, oder jemand Operatives zahlt den Preis für eine Darstellung, die oben funktioniert hat.
+- Organisationen haben ein Gedächtnis: Kalender, Verteiler, OPL-Punkte, Protokolle und Statusfarben tragen frühere Kompromisse weiter, auch wenn niemand sie noch einmal ausdrücklich entscheidet.
+- Frank nutzt OPL-Punkte bewusst: Er weiß, dass fehlende Entscheidungen durch nachverfolgbare Arbeitspakete ersetzt werden können. Ein Beschluss wäre angreifbar; ein offener Punkt wirkt harmlos und erzeugt trotzdem Bewegung.
+- Joachims Ausschluss soll sich nicht in einer großen Szene erledigen. Er taucht später als Muster wieder auf: optional in Einladungen, fachliche Zuarbeit statt Mandat, Prüfung statt Stimme.
+- Marta und Nora verlieren nach dem Workshop nicht die Kooperationsbereitschaft, aber das Vertrauen. Sie liefern weiter, jedoch mit Bedingungen, CCs, Fußnoten und schriftlichen Absicherungen. Dadurch wird das Projekt langsamer und politischer.
+- Der Protagonist wird sichtbarer, aber als Franks Mann gelesen. Gerade dadurch bekommt er Informationen später, vorsichtiger und stärker gefiltert.
 
 # Schlüsselszenen für mehr Story-Tiefgang
 
@@ -54,6 +59,7 @@ Diese Datei beginnt mit `90_` und wird vom Makefile nicht in das Buch-PDF übern
 - Frank erkennt sofort, dass eine kleine Demo politisch zu klein ist, und beginnt, daraus eine Konzernstory zu bauen.
 - Joachim hört zuerst die Verpflichtung, Marta zuerst den Personal- und Lieferdruck, der Protagonist zuerst die Chance.
 - Der Protagonist merkt: Die Einigung aus dem Auto war fachlich sauber, aber politisch nicht groß genug.
+- Wichtige Konsequenz: Aus Hans' OPL-Punkt entsteht faktisch Arbeit an einer Plattform, ohne dass jemand offiziell beschlossen hat, eine Plattform zu bauen. Frank erkennt das und nutzt es bewusst.
 - Theorie: Entscheidungsgremien bewerten nicht nur Ergebnisse, sondern Anschlussfähigkeit an Strategie, Wachstum und Risiko.
 - Theorie: Vision, Mission und Einbettung darin.
 
@@ -88,6 +94,9 @@ Diese Datei beginnt mit `90_` und wird vom Makefile nicht in das Buch-PDF übern
 - Frank nimmt die Zahlen trotzdem, weil sie eine starke Story für die Aufsichtsratssitzung ergeben.
 - Zuspitzung: Frank hat eine Draft-Version bereits oben gezeigt, weil der Protagonist sie ihm vorab geschickt hatte.
 - Das bringt den Protagonisten ins Grübeln: Belügen wir uns hier absichtlich, oder machen wir nur planbar, was ohnehin ungewiss ist?
+- Konsequenz aus dem Workshop: Marta und Nora geben ihre Beiträge danach nur noch schriftlich und konditioniert. Die informelle Geschwindigkeit geht verloren, weil Vertrauen in Absicherung übersetzt wird.
+- Die gelben Risiken aus der Rohfassung werden später in einem Steering als "in Bearbeitung" oder "mit Maßnahmen hinterlegt" gelesen. Niemand hat gelogen, aber die Organisation erinnert sich an den Status optimistischer als an die Warnung.
+- Nora baut eine eigene Absicherungsschicht: Pipeline, Forecast und Zielbild werden in ihren Mails strikt getrennt, Frank oder Konzernstrategie stehen in CC. Das schützt sie, macht aber seitliche Zusammenarbeit kälter.
 - Theorie: 5-Jahres-Plan, Umsatzplanung, Kostenplanung, Personalplanung.
 - Theorie: GuV, Order Intake, Total Net Sales, Marge, Cash vs. Ergebnis.
 - Theorie: Forecasts, Planung und finanzielle Stabilität.
