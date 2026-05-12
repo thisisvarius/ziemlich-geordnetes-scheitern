@@ -314,6 +314,10 @@ ORGANISATION
 
 "Wir müssen das jetzt richtig denken", sagt er.
 
+Niemand wirkt erleichtert. Trotzdem verändert sich der Raum. Vorher hatten wir einen Auftrag, der zu groß war, und vier Menschen, die aus verschiedenen Gründen beleidigt, erschöpft oder überfordert waren. Jetzt stehen vier Wörter an der Wand. Das ist noch kein Plan. Aber es ist etwas, woran man sich reiben kann.
+
+"Nicht schönreden", sagt Frank. "Nur sortieren. Was müssen wir beweisen, was müssen wir bauen, und wen brauchen wir dafür?"
+
 "Wir haben gerade erst beschlossen, es klein genug zu halten, damit wir es bauen können", sagt Marta.
 
 "Und jetzt müssen wir es groß genug erzählen, damit wir es weiter bauen dürfen."

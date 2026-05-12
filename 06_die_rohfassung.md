@@ -1452,6 +1452,8 @@ Frank hebt beide Hände, nicht hoch, nur so weit, dass der Raum ihn wieder regis
 
 Die Frau aus der Konzernstrategie schreibt still weiter, was mich noch nervöser macht als jede Wortmeldung.
 
+Frank presst kurz die Lippen zusammen. Ich sehe, wie sehr ihn diese Schleife ungeduldig macht: Marta schützt ihr Team, Nora schützt den Markt, ich schütze meine Datei. Alles berechtigt. Alles nachvollziehbar. Und trotzdem kommt in diesem Moment niemand auch nur einen Zentimeter näher an eine Unterlage, mit der Hans etwas entscheiden kann.
+
 Ich merke, wie meine Sätze kürzer werden, sobald ich zu ihr hinübersehe. Für Marta und Nora hätte ich mich verteidigt. Für die Konzernstrategie formuliere ich mich.
 
 Sie hebt kurz den Blick. "Soll ich als offenen Punkt aufnehmen: fachliche Abstimmung nachholen?"
@@ -1545,6 +1547,16 @@ _Was brauchen wir von außen?_
 "Wenn ihr Skalierung wollt", sagt sie, "dann reicht es nicht, dass wir hier intern mutiger rechnen. Dann muss die Organisation uns auch Dinge geben, die wir alleine nicht herstellen können."
 
 Frank wirkt für einen Moment, als wolle er widersprechen. Dann sieht er auf die Folie, auf der noch immer der _Skalierungsfall_ steht, und nickt langsam. "Gut. Dann sammeln wir."
+
+Er zieht ein neues Blatt auf das Whiteboard und schreibt drei Spalten:
+
+_Was brauchen wir?_
+
+_Von wem?_
+
+_Bis wann entscheidbar?_
+
+"Sonst diskutieren wir gleich wieder, wer was gemeint hat", sagt er.
 
 Marta nennt den ersten Punkt. "Sponsor-Review. Regelmäßig. Nicht nur, wenn es brennt."
 

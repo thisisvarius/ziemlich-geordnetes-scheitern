@@ -123,6 +123,8 @@ Frank zuckt mit den Schultern. "Ich will, dass auf der Messe jemand stehen bleib
 
 Ich merke, wie ich nicke, bevor ich entschieden habe, auf wessen Seite ich stehe.
 
+Das ist Franks unangenehme Stärke: Er beantwortet nicht die sauberste Frage, sondern die Frage, die gerade entscheidet, ob überhaupt etwas passiert. Eddy hat recht mit dem Produkt. Frank hat recht mit der Halle, dem Stand und der Tatsache, dass in vier Wochen niemand an unserem Tisch stehen bleibt, nur weil wir intern differenziert genug gedacht haben.
+
 "Wir brauchen eine Geschichte, die auf eine Wand passt", sage ich. "Wenn wir anfangen, für jeden Stakeholder eine eigene Logik zu bauen, verlieren wir die Leute nach dem zweiten Satz."
 
 Eddy schaut mich an, als hätte ich gerade freiwillig eine Prüfung angemeldet, auf die ich nicht vorbereitet bin.

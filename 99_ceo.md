@@ -22,6 +22,8 @@ Name: Dr. Frank Köhler
 - Improvisiert unter Druck schnell und konkret; sein Charisma entsteht oft aus der Fähigkeit, Panik in Arbeit zu verwandeln
 - Bleibt in operativen Krisen oft erstaunlich ruhig  
 - Kann Spannungen kurzfristig in Handlungsfähigkeit übersetzen  
+- Wird oft deshalb wirksam, weil andere in Analyse, Kränkung oder Absicherung stehen bleiben und er den nächsten bearbeitbaren Schritt formuliert
+- Hat eine echte Führungsstärke darin, aus unvollständiger Lage trotzdem Arbeit zu schneiden: nicht sauber, aber anschlussfähig und machbar
 - Erkennt schnell, wann externe Legitimation intern mehr Wirkung hat als eigene Fachargumente  
 - Versteht die Spielregeln des Konzerns besser als die meisten anderen
 - Weiß oft, dass eine Darstellung fachlich dünn ist, erkennt aber, wann sie politisch trotzdem funktioniert
@@ -43,6 +45,7 @@ Name: Dr. Frank Köhler
 - Versteht variablem Umfang als politisch brauchbare Flexibilität, während Entwicklung darin vor allem eine Grenze gegen falsche Zusagen sieht
 - Behandelt persönliche Beschädigungen oft als notwendige Nebenfolge von Fokus: Joachim raus aus dem Steuerkreis, Eddy raus aus der Story, der Protagonist rein in die sichtbare Verantwortung
 - Sieht Widerspruch weniger als Schutz der Entscheidung, sondern als Risiko für Entscheidbarkeit
+- Wird ungeduldig mit Menschen, die Probleme präzise beschreiben, ohne daraus eine nächste Bewegung zu machen
 
 ## Konflikt
 - Will Geschwindigkeit und Wirkung nach außen  
@@ -50,6 +53,7 @@ Name: Dr. Frank Köhler
 - Gerät zwischen Anspruch und Realität  
 - Ist nicht nur Blender: Er sieht Chancen wirklich, manchmal früher als andere. Gefährlich wird er dort, wo er nicht mehr unterscheiden will, ob er eine Wahrheit entdeckt oder eine brauchbare Erzählung erzeugt hat
 - Ist stärker, wenn improvisiert werden muss, als wenn Substanz sauber aufgebaut werden müsste  
+- Seine Attraktivität entsteht auch daraus, dass er Räume aus Stillstand befreit. Genau das macht es schwer, ihm zu widersprechen, selbst wenn seine Richtung riskant ist
 - Sieht in Beratern vor allem ein Mittel, Themen oben entscheidungsfähig zu machen, auch wenn fachlich kaum Neues entsteht  
 - Verkörpert den Business-Pol des späteren Konflikts mit der Entwicklung, ohne ihn je offen so zu benennen
 - Wird für den Protagonisten zugleich Vorbild, Versuchung und Risiko

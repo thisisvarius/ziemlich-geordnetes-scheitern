@@ -122,6 +122,8 @@ Frank sieht die Lösung.
 
 "Berater", sagt er.
 
+Es ist billig, sich darüber lustig zu machen. Eddy und Joachim können das besser als jeder andere im Raum. Aber während sie noch zeigen, warum die Organisation lächerlich ist, hat Frank schon begriffen, wie man diese Lächerlichkeit benutzt, damit das Thema nicht stirbt.
+
 Eddy schließt für einen Moment die Augen. Joachim beißt sich sehr offensichtlich auf die Zunge, um nichts Zynisches sagen zu müssen. Frank merkt davon nichts.
 
 "Das war keine Empfehlung", probiert Eddy es noch einmal etwas forscher.
@@ -137,6 +139,14 @@ Frank richtet sich auf.
 "Du kannst nicht jeden Zynismus als Strategie verwenden."
 
 Frank nimmt seinen Stift. "Doch. Wenn der Zynismus eine Lücke beschreibt."
+
+"Und dein nächster Schritt wäre?", fragt er.
+
+Eddy antwortet nicht sofort.
+
+Joachim schaut aus dem Fenster.
+
+Frank wartet einen Moment, nicht lange genug, dass es peinlich wird, aber lange genug, dass alle merken, dass niemand eine bessere Bewegung anbietet.
 
 Eddy öffnet den Mund, schließt ihn wieder und lehnt sich zurück. Zum ersten Mal an diesem Nachmittag hat er den Raum nicht schärfer gemacht, sondern Frank eine Tür geöffnet.
 
