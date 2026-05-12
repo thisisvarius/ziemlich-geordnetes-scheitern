@@ -451,6 +451,16 @@ Marta zieht die Augenbrauen hoch. "Wer hat dir das gesagt?"
 
 Eddy lacht nicht. Das sitzt.
 
+Marta schaut wieder auf den Demonstrator. "Eddy, wenn du jetzt noch einmal erklärst, warum das alles klassisch falsch läuft, stelle ich dich als Risiko in die Tabelle."
+
+"Endlich die passende Rolle."
+
+"Ich meine das ernst."
+
+"Ich leider auch."
+
+"Dann hilf uns mit dem nächsten Schritt", sagt Marta. "Nicht mit der Grabrede."
+
 Ich will etwas Inhaltliches erwidern und merke, dass mir nur Organigramm-Vokabular einfällt. Dann fällt mir die Schulung wieder ein, in der ein externer Coach mit sehr weißen Turnschuhen erklärt hatte, Agilität bedeute nicht, ohne Plan zu arbeiten. Es bedeute, anders mit Unsicherheit umzugehen. Damals hatte ich den Satz ordentlich notiert und danach nie wieder gebraucht.
 Wahrscheinlich stand er sogar in dem Notizbuch, das ich vor lauter Verzweiflung gerade aufgemacht hatte.
 
@@ -517,6 +527,14 @@ Ich sehe ihn an.
 "Was?", sagt Eddy. "Ich kann auch Management."
 
 Marta nickt langsam. "Das wäre tatsächlich brauchbar. Ein Team mit jemandem, der fachlich priorisiert, und jemandem, der dafür sorgt, dass das Team arbeitsfähig bleibt. Sonst haben wir acht Leute, die alle beschäftigt sind, aber niemanden, der die Unsicherheit sortiert."
+
+"Siehst du", sagt Eddy. "Ich kann konstruktiv sein."
+
+Marta gibt mir mein Notizbuch zurück. "Schreib schnell, bevor er es wieder merkt."
+
+"Ich merke alles", sagt Eddy. "Auch Anerkennung."
+
+"Dann gewöhn dich nicht daran", sagt Marta.
 
 "Fixed capacity, variable scope", sage ich.
 

@@ -181,6 +181,16 @@ Ich spüre, wie mir die Wärme ins Gesicht steigt.
 
 Frank sagt nichts. Aber er sieht zufrieden aus.
 
+Eddy sieht es auch. "Schön", sagt er. "Jetzt haben wir also Tempo mit Erkenntnis verwechselt."
+
+Frank lächelt kaum merklich. "Wir haben überhaupt erst wieder Tempo."
+
+"Gratuliere."
+
+"Danke."
+
+Ich merke, dass Eddy recht haben könnte, und ärgere mich trotzdem über ihn. Frank hat mir gerade einen Platz in der Bewegung angeboten. Eddy bietet mir eine Prüfung an, bei der ich schon durchgefallen bin.
+
 Eddy tippt mit dem Finger auf die erste Frage. "Der Produktionsleiter will Ausschuss vermeiden."
 
 Dann auf die zweite. "Der Qualitätsleiter will keine Rückrufe."
@@ -277,11 +287,23 @@ Ich suche nach einem Einwand.
 
 Und finde nur den Gedanken, dass Frank mich gerade zum ersten Mal nicht wie seinen Assistenten ansieht, sondern wie jemanden, der nützlich ist.
 
+Frank nimmt die Ausdrucke nicht. "Wir machen es trotzdem."
+
+Eddy hält sie mir noch einen Moment hin. "Natürlich macht ihr es trotzdem."
+
+"Weil es funktionieren kann", sagt Frank.
+
+"Kurzfristig", sagt Eddy.
+
+"Das ist diese Woche meine Lieblingszeiteinheit."
+
+Ich nehme die Ausdrucke. Nicht weil Eddy mich überzeugt hat. Weil Frank mich ansieht, als könne ich aus Eddys Widerspruch trotzdem etwas Brauchbares machen.
+
 ::: Theorie
 
 **Was in der Szene passiert ist**
 
-Eddy hat versucht, uns zu zwingen, "den Markt" in konkrete Menschen, Rollen und Interessen zu zerlegen. Frank und ich wollten dagegen eine breite Messe-Story, die schnell genug wirkt, um das Thema am Leben zu halten. Die Stakeholder-Analyse entsteht deshalb nicht aus Einsicht, sondern aus Widerstand gegen eine zu bequeme Geschichte.
+Eddy hat versucht, uns zu zwingen, "den Markt" in konkrete Menschen, Rollen und Interessen zu zerlegen. Frank und ich wollten dagegen eine breite Messe-Story, die schnell genug wirkt, um das Thema am Leben zu halten. Die Stakeholder-Analyse entsteht deshalb nicht aus Einsicht, sondern aus Widerstand gegen eine zu bequeme Geschichte. Eddy sieht das strukturelle Problem früh, macht es uns aber so scharf vor, dass wir uns zuerst verteidigen statt lernen.
 
 **Das Prinzip**
 
@@ -311,6 +333,8 @@ Verwechsle Organisationseinheiten nicht mit Menschen. "Der Markt", "die IT" oder
 Achte außerdem auf informelle Macht. Nicht jeder, der offiziell entscheidet, prägt die Entscheidung am stärksten. Oft beeinflussen Assistenzen, Fachexperten, Controlling oder IT-Security den Ausgang früher als die eigentlichen Entscheider.
 
 Stakeholder-Analyse ist keine moralisch neutrale Übung. Wer versteht, was andere gewinnen oder verlieren können, kann besser helfen, aber auch besser manipulieren.
+
+Achte auch auf den Ton, in dem Analyse angeboten wird. Eine richtige Analyse kann politisch wirkungslos werden, wenn sie vor allem als Bloßstellung ankommt. Wer andere überzeugen will, muss ihnen einen Weg aus dem Irrtum zeigen, nicht nur den Irrtum selbst.
 
 **Merksatz**
 
@@ -489,6 +513,38 @@ Der Mann tauscht ein Kabel. Dann noch eines. Der Bildschirm bleibt schwarz.
 
 Eddy sagt nichts mehr. Das war bei ihm selten ein gutes Zeichen.
 
+Dann sagt er doch etwas.
+
+"Habt ihr eigentlich irgendwann einmal einen Messestand betreut, bei dem der Bildschirm am Ende auch ein Bild zeigt?"
+
+Der Techniker sieht ihn an.
+
+Es ist kein guter Blick. Nicht offen wütend. Eher der Blick eines Menschen, der gerade entschieden hat, sich ab jetzt exakt an seinen Auftrag zu halten und keinen Millimeter darüber hinaus zu helfen.
+
+Frank merkt es sofort. "Er meint: Wir sind dankbar für alles, was Sie noch ausprobieren können."
+
+Eddy schnaubt leise.
+
+"Nein", sagt Frank, ohne ihn anzusehen. "Genau das meint er."
+
+Der Techniker zieht das nächste Kabel langsamer aus der Kiste als vorher.
+
+"Wir können auch morgen früh weitermachen", sagt er.
+
+Frank lächelt ihn an. "Heute wäre mir lieber."
+
+"Dann brauche ich kurz Ruhe am Gerät."
+
+Er sagt es höflich. Er meint Eddy.
+
+Eddy hebt beide Hände. "Ich bin schon eine Störung im Raum."
+
+"Eddy", sagt Frank.
+
+"Schon gut." Eddy nimmt seine Wasserflasche und geht zwei Schritte zur Seite. "Ich störe leise."
+
+Der Techniker steckt das Kabel ein, ohne ihn anzusehen.
+
 "Wo ist eigentlich das zweite Netzteil für unseren Laptop?", frage ich.
 
 Niemand antwortet.
@@ -629,6 +685,26 @@ Eddy steht neben mir und schweigt.
 
 Er sagt es ganz sachlich nüchtern. Das macht es unangenehmer. Laute Warnungen kann man als Temperament behandeln. Solche nüchternen Warnungen klingen schon wie ein Mensch, der abwägt, ob er seine berufliche Zukunft für eine Wahrheit ausgeben will, die gleich trotzdem niemand hören möchte.
 
+"Dann sag mir, was ich stattdessen bauen soll", sage ich.
+
+Eddy sieht auf den Bildschirm. "Eine Visualisierung."
+
+"Das ist ein Wort, keine Demo."
+
+"Es ist wenigstens kein falsches Wort."
+
+"Eddy, ich brauche jetzt einen Ablauf."
+
+Er verschränkt die Arme. "Der Ablauf ist: Besucher sieht, dass ihr etwas vorbereitet habt, und ihr sagt, dass es vorbereitet ist."
+
+"Dann bleibt niemand stehen."
+
+"Dann ist das vielleicht eine Information."
+
+Ich klicke härter als nötig auf die nächste Folie. "Das hilft mir nicht."
+
+"Nein", sagt Eddy. "Vermutlich nicht."
+
 Ich klicke auf Vorschau. Der Ablauf startet, das Ventil fährt über den Bildschirm, der Rahmen sucht, findet, bewertet. Oberflächlich funktioniert es hervorragend.
 
 "Siehst du?", sage ich.
@@ -730,6 +806,8 @@ Trenne außerdem Tempo und Übergehen. Unter Zeitdruck darf man vereinfachen. Ma
 Unter Stress wirken kritische Fachleute schnell wie Bremser. Oft sind sie die Einzigen, die noch sehen, wo Darstellung und Realität auseinanderlaufen. Wer sie zu früh übergeht, gewinnt manchmal den nächsten Morgen und verliert die Glaubwürdigkeit danach.
 
 Vermeide falsche Harmonie. Wertschätzung heißt nicht, jeden Einwand endlos zu diskutieren. Sie heißt, deutlich zu machen, dass ein sauberer Widerspruch erwünscht ist und Konsequenzen hat.
+
+Umgekehrt müssen kritische Fachleute ihren Widerspruch so einbringen, dass daraus noch Handlung entstehen kann. Wer erst spät, scharf oder vor Publikum korrigiert, hat vielleicht recht und verliert trotzdem Einfluss. Gute Warnungen brauchen Timing, Respekt und eine brauchbare nächste Option.
 
 **Merksatz**
 

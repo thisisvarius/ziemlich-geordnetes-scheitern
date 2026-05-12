@@ -118,6 +118,16 @@ Frank richtet sich auf.
 
 "Doch", sagt er. "Eigentlich schon."
 
+"Nein", sagt Eddy. "Das war ein Spottbild."
+
+"Ein brauchbares", sagt Frank.
+
+"Du kannst nicht jeden Zynismus als Strategie verwenden."
+
+Frank nimmt seinen Stift. "Doch. Wenn der Zynismus eine Lücke beschreibt."
+
+Eddy öffnet den Mund, schließt ihn wieder und lehnt sich zurück. Zum ersten Mal an diesem Nachmittag hat er den Raum nicht schärfer gemacht, sondern Frank eine Tür geöffnet.
+
 ## Benton & Cale
 
 Zwei Tage später spricht Frank bereits von einem "externen Validierungspartner".
@@ -260,6 +270,38 @@ Ich sage nichts.
 
 Das ist meine erste kleine Niederlage als Franks rechte Hand. Ich müsste Frank widersprechen, doch ich erkenne den Satz wieder. Vor vier Wochen hätte er auch von mir kommen können. Wir waren über diesen Punkt hinaus. Jetzt stehen wir wieder auf Los, nur mit mehr Publikum.
 
+"Dann mach aus dem Buffet eine Fragestellung", sagt Frank.
+
+Eddy sieht ihn an. "Das ist nicht mein Auftrag."
+
+"Gerade war es noch dein Problem."
+
+"Mein Problem ist, dass ihr keines habt. Jedenfalls keines, das ihr aussprechen wollt."
+
+Frank wartet.
+
+Eddy wartet auch.
+
+Nach ein paar Sekunden schreibt Frank _Plattformansatz validieren_ auf den Ausdruck.
+
+"Gut", sagt er. "Dann bleibt es erst einmal dabei."
+
+Eddy verzieht den Mund.
+
+"Du willst es also absichtlich unklar lassen", sagt er.
+
+"Ich will es erst einmal anschlussfähig lassen", sagt Frank.
+
+"Das klingt besser."
+
+"Das ist der Vorteil", sagt Frank.
+
+Joachim schaut von einem zum anderen. "Ich notiere: Fragestellung folgt später."
+
+"Notier, was du willst", sagt Frank. "Hauptsache, es geht raus."
+
+Eddy lehnt sich zurück. Er hat den besseren Einwand. Frank hat den nächsten Schritt.
+
 ## Bootcamp
 
 Die Berater kommen am Montag.
@@ -364,6 +406,18 @@ Eddy legt die Folien auf den Tisch.
 
 "Stakeholder, Konkurrenzprodukte, Marktpositionierung, Wertversprechen. Das ist nicht ähnlich. Das ist meine Struktur."
 
+Frank schaut auf die Folien, dann auf Eddy. "Deine?"
+
+"Ja. Meine."
+
+"Ich dachte, es ging dir um die richtige Struktur."
+
+"Frank."
+
+"Was?"
+
+"Spiel jetzt nicht den Naiven."
+
 Frank nimmt die erste Seite, überfliegt sie und nickt.
 
 "Gut", sagt er. "Dann haben sie es verstanden."
@@ -389,6 +443,22 @@ Ich erlebe selten, dass Eddy sprachlos ist. Es steht ihm nicht. "Du verstehst wi
 "Aber Eddy hat doch recht", sage ich.
 
 Frank sieht mich an. "Ihr wollt recht haben. Ich will gewinnen."
+
+Eddy lacht kurz. "Natürlich. Wenn jemand anders meine Arbeit verkauft, ist das also mein Eitelkeitsproblem."
+
+"Nein", sagt Frank. "Es ist unser Entscheidungsproblem. Und gerade hilft mir Dr. Lenz mehr als du."
+
+"Weil er höflicher abschreibt?"
+
+"Weil er anschlussfähiger ist."
+
+Eddy schiebt die Folien einen Zentimeter von sich weg, als seien sie verunreinigt.
+
+"Anschlussfähig", sagt er. "Schönes Wort für: jemand anders sagt es höflicher."
+
+"Oder brauchbarer", sagt Frank.
+
+Eddy antwortet nicht sofort. Das ist selten. Noch seltener ist, dass es nicht nach Kontrolle aussieht.
 
 Eddy schaut auf die Folien.
 
@@ -436,7 +506,17 @@ _phased productization path_
 
 Das ist tatsächlich meine Geschichte. Nur teurer, glatter und von jemandem erzählt, dem man oben eher glaubt.
 
-Eddy nimmt die Folien wieder an sich.
+"Was soll ich jetzt tun?", frage ich.
+
+Eddy sieht mich an. "Merk dir, wie es sich anfühlt."
+
+"Das ist kein Arbeitspaket."
+
+"Nein", sagt er. "Es ist eine Warnung."
+
+Frank dreht sich wieder zum Bildschirm. "Dann mache ich aus der Warnung ein Arbeitspaket."
+
+Eddy nimmt die Folie zurück. "Genau das ist das Problem."
 
 "Ich habe so etwas schon einmal bezahlt", sagt er leise.
 
@@ -562,6 +642,8 @@ Ich weiß auch, dass Frank gewonnen hat.
 
 Das Verstörende ist, dass mich in diesem Moment nicht nur Eddys Recht beeindruckt.
 
+Mich beeindruckt auch, dass Frank etwas bewegt hat. Er hat aus einer schwebenden Idee einen beschlossenen Auftrag gemacht, während Eddy danebenstand und erklären konnte, warum der Auftrag aus den falschen Gründen zustande kam. Das ist keine Kleinigkeit. Organisationen belohnen selten die sauberste Diagnose. Sie belohnen oft denjenigen, der aus unvollständiger Diagnose eine nächste Handlung macht.
+
 Zwei Tage später fehlt Eddy in der Einladung zum nächsten Weekly.
 
 Ich finde ihn in der Kaffeeküche. Er steht vor dem Automaten und betrachtet das Display, als stelle es ihm eine schwerere Frage als nur Cappuccino oder Kaffee schwarz.
@@ -596,7 +678,7 @@ Ich will widersprechen, finde aber keinen Satz, der nicht sofort kindisch klingt
 
 "Aber nicht im Projekt."
 
-"Nicht in einer Rolle, in der meine Warnung benutzt wird, damit andere mutiger klingen. Ich möchte nicht als Fußnote eingehen. Die Person auf die man hätte hören sollen. Ich möchte spielen um gewinnen zu könnnen."
+"Nicht in einer Rolle, in der meine Warnung benutzt wird, damit andere mutiger klingen. Ich möchte nicht als Fußnote eingehen. Die Person, auf die man hätte hören sollen. Ich möchte spielen, um gewinnen zu können."
 
 Eddy rührt den Kaffee um, obwohl kein Zucker darin ist. "Pass auf, dass du den Unterschied merkst."
 
@@ -604,15 +686,33 @@ Eddy rührt den Kaffee um, obwohl kein Zucker darin ist. "Pass auf, dass du den 
 
 "Zwischen einer Idee, die größer wird, weil sie tragfähiger wird, und einer Idee, die größer wird, weil sie sonst nicht sexy genug für die eigene Karriere ist."
 
+"Und wenn du den Unterschied siehst?", frage ich.
+
+Eddy nimmt die Tasse vom Automaten. "Dann geh nicht mit der falschen Idee mit."
+
+"Das ist alles?"
+
+"Das ist schon mehr, als die meisten schaffen."
+
+"Du könntest bleiben und dafür sorgen, dass es die richtige Idee bleibt."
+
+Er sieht mich an. Für einen Moment ist sein Gesicht offen genug, dass ich seine Müdigkeit sehe.
+
+"Nein", sagt er dann. "Dann darf ich jede Woche erklären, warum die falsche Idee noch immer falsch ist, und am Ende bin ich der Grund, warum alle müde sind."
+
+"Oder der Grund, warum sie nicht abstürzt."
+
+"Schön wär's." Er rührt den Kaffee um, obwohl kein Zucker darin ist. "Du überschätzt, wie lange Menschen demjenigen dankbar sind, der ihnen beim Fallen zusieht und vorher recht hatte."
+
 Dann geht er.
 
-Kein Drama. Keine Kündigung. Keine Tür, die laut ins Schloss fällt. Nur ein Name weniger auf einem Verteiler. Im Konzern kann man jemanden sehr leise verlieren.
+Kein Drama. Keine Kündigung. Keine Tür, die laut ins Schloss fällt. Nur ein Name weniger auf einem Verteiler. Im Konzern kann man jemanden sehr leise verlieren. Manchmal hilft derjenige sogar mit, weil er den ersten Schritt zur Tür schon gemacht hat, bevor ihn jemand schiebt.
 
 ::: Theorie
 
 **Was in der Szene passiert ist**
 
-Unsere Idee hatte nach dem Business Case keine Gegner, aber auch keinen tragfähigen Sponsor. Erst die externe Validierung durch Benton & Cale machte sie für den Aufsichtsrat entscheidungsfähig. Frank wurde dadurch zum Sponsor, obwohl die Berater vor allem unsere vorhandenen Argumente in eine akzeptierte Konzernsprache übersetzten. Entscheidend war nicht, dass Benton & Cale die Unschärfe beseitigte. Sie machten sie anschlussfähig. Eddy erkennt das Spiel, zieht sich aber aus der nächsten Phase zurück.
+Unsere Idee hatte nach dem Business Case keine Gegner, aber auch keinen tragfähigen Sponsor. Erst die externe Validierung durch Benton & Cale machte sie für den Aufsichtsrat entscheidungsfähig. Frank wurde dadurch zum Sponsor, obwohl die Berater vor allem unsere vorhandenen Argumente in eine akzeptierte Konzernsprache übersetzten. Entscheidend war nicht, dass Benton & Cale die Unschärfe beseitigte. Sie machten sie anschlussfähig. Eddy erkennt das Spiel, reagiert aber so scharf auf die Vereinnahmung seiner Arbeit, dass Frank ihn leichter als Störung behandeln kann. Am Ende zieht Eddy sich aus der nächsten Phase zurück und überlässt Frank damit das Feld.
 
 **Das Prinzip**
 
@@ -637,6 +737,8 @@ Zustimmung ohne Sponsor ist instabil. Alle finden das Thema interessant, aber ni
 Externe Validierung kann helfen, aber sie hat einen Preis: Sie verschiebt die Autorität von den Fachexperten zur akzeptierten Außenstimme. Das kann Türen öffnen. Es kann aber auch verdecken, dass die Organisation ihrer eigenen Expertise nicht traut.
 
 Achte darauf, ob externe Validierung Erkenntnis liefert, Verantwortung verschiebt oder Unschärfe veredelt. Alle drei Effekte können nützlich sein. Gefährlich wird es, wenn du sie verwechselst.
+
+Achte auch darauf, was mit den internen Fachleuten passiert, deren Gedanken extern validiert werden. Wenn sie nur als Rohstoff für fremde Folien auftauchen, verlieren sie Einfluss und oft auch Motivation. Gleichzeitig verlieren kritische Fachleute Einfluss, wenn sie ihre berechtigte Kränkung so vortragen, dass sie leichter als Eitelkeit oder Blockade gelesen werden kann.
 
 **Merksatz**
 

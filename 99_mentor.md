@@ -15,6 +15,8 @@ Name: Eddy Schneider
 - Persönliches Risiko vermeiden, nachdem er früher selbst an Verantwortung und Politik verloren hat
 - Nicht noch einmal derjenige sein, der öffentlich recht hat und organisatorisch verliert
 - Seine fachliche Integrität schützen: Er will nicht zum stillen Mitwisser einer Story werden, die seine Warnungen nur als Dekoration nutzt
+- Will heimlich doch noch gebraucht werden, ohne zugeben zu müssen, dass ihm Anerkennung fehlt
+- Möchte nicht Teil des politischen Spiels sein, nimmt es aber persönlich, wenn andere ohne ihn spielen
 
 ## Stärke
 - Erkennt Organisations- und Machtstrukturen sofort  
@@ -34,6 +36,11 @@ Name: Eddy Schneider
 - Geht nur noch in Vorhaben, bei denen er glaubt, fachlich oder politisch nicht wirklich verlieren zu können
 - Hilft oft genau dann, wenn er eigentlich nur stören wollte, weil seine Störung das eigentliche Problem sichtbar macht
 - Zieht sich zurück, bevor andere ihn offen ausschließen können; das schützt ihn, kostet die Organisation aber die schärfste Gegenfrage
+- Verwechselt Klarheit manchmal mit Härte und wundert sich dann, dass andere nicht mehr zuhören
+- Bestraft schlechte Gedankenführung oft mit Spott, obwohl er damit gerade die Menschen verliert, die er überzeugen müsste
+- Ist eitel auf seine diagnostische Schärfe und merkt zu spät, dass Frank mit einer schlechteren, aber anschlussfähigeren Geschichte kurzfristig mehr erreicht
+- Seine Resignation tarnt sich als Überlegenheit: Er kommentiert lieber klug, als sich erneut politisch schmutzig zu machen
+- Seine Warnungen demotivieren Teams, wenn sie zu früh nach Endgültigkeit klingen und zu wenig nach nächstem Schritt
 
 ## Konflikt
 - Spricht unbequeme Wahrheiten aus  
@@ -46,6 +53,7 @@ Name: Eddy Schneider
 - Seine Abwesenheit soll später spürbar sein, weil niemand mehr selbstverständlich die systemische Gegenfrage stellt
 - Auch nach seinem formalen Ausschluss taucht er dort wieder auf, wo die Organisation ihn praktisch braucht, aber offiziell nicht sehen will
 - Sein Weggang sollte als persönlicher Preis der Management-Story lesbar werden: Nicht der Lauteste verliert, sondern derjenige, der nicht mehr bereit ist, seine fachliche Warnung als Schmuck für fremde Entscheidungen herzugeben
+- Gleichzeitig ist sein Weggang auch ein taktischer Fehler: Er überlässt Frank das Feld und macht es anderen leichter, seine Perspektive als Störung statt als Beitrag zu behandeln
 
 ## Typische Sätze
 - „Der Fisch stinkt vom Kopf.“  
@@ -55,3 +63,5 @@ Name: Eddy Schneider
 - "Das ist Wasserfall. Die klassische Management-Version davon: ohne Wasser."
 - "Ich kann auch Management."
 - "Ich habe kein Problem damit, wenn Management Risiken eingeht. Ich habe ein Problem damit, wenn es meine Warnungen als Dekoration benutzt."
+- "Ihr wollt alle Klarheit, bis sie jemand ausspricht."
+- "Ich weiß, dass ich gerade nicht hilfreich klinge. Das macht es leider nicht falscher."
