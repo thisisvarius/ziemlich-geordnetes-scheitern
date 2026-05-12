@@ -28,6 +28,8 @@ Ich lese den Verteiler, weil ich solche Dinge inzwischen lese. Frank. Marta. Ich
 
 Joachim fehlt.
 
+In einem normalen Kalender wäre das ein Versehen. In diesem Kalender ist es eine Entscheidung mit Uhrzeit, Raum und stiller Begründung.
+
 Für einen Moment glaube ich an einen Fehler. Dann sehe ich Franks Gesicht.
 
 Joachim sieht es auch. "Aha."
@@ -102,6 +104,10 @@ Es gibt Räume, die machen ein Thema schon beim Betreten größer. Dieser hier g
 
 Neben ihm sitzen zwei weitere Mitglieder des Aufsichtsrats, jemand aus der Konzernstrategie und die Assistenz von Hans, eine Frau, die während des gesamten Termins so schreibt, als entstehe aus jeder Silbe später eine Pflicht.
 
+Frank setzt sich nicht sofort. Er bleibt neben dem Bildschirm stehen. Marta und ich bleiben beim Rollwagen. Es hat niemand gesagt, dass das die richtige Ordnung ist. Trotzdem nimmt keiner von uns einen der Stühle am langen Tisch.
+
+In solchen Räumen muss man nicht aufgefordert werden, seinen Platz zu kennen.
+
 Frank beginnt ruhig.
 
 "Wir haben den Messe-Demonstrator bewusst eng geschnitten", sagt er. "Als überprüfbaren nächsten Schritt. Kein Produktlaunch."
@@ -124,7 +130,7 @@ Frank übernimmt. "Wir zeigen hier nicht, dass das System alles kann. Wir zeigen
 
 "Und das ist auf echte Ventilbilder übertragbar?"
 
-"Nicht direkt", sagt Marta.
+"In der heutigen Form noch nicht direkt", sagt Marta.
 
 Frank wartet eine halbe Sekunde. Mehr kommt nicht.
 
@@ -226,7 +232,7 @@ Marta hebt den Kopf und räuspert sich.
 
 Frank sieht zu ihr.
 
-"Die Organisation, die das tragen kann", sagt Marta. "Gibt es nicht."
+"Die Organisation, die das tragen kann", sagt Marta, "müssten wir erst aufbauen."
 
 "Dann wäre das Teil des Plans", sagt Frank.
 
@@ -333,6 +339,8 @@ Frank hält kurz inne.
 "Ich versuche nur, die Konzernfolie zu antizipieren."
 
 Marta lächelt nicht. "Wenn ihr fertig seid, würde ich gern wissen, wer diese Plattform baut."
+
+Im Steuerkreis hatte sie gesagt, man müsse die Organisation erst aufbauen. Hier, zwei Etagen tiefer, ist dieselbe Wahrheit weniger höflich: Es gibt sie nicht.
 
 "Genau darum geht es", sagt Frank. "Wir brauchen ein Zielbild. Organisation, Fähigkeiten, Roadmap, Business Case. Alles in einer Linie."
 

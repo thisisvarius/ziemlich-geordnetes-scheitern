@@ -1356,9 +1356,13 @@ Der Raum ist schon fast voll.
 
 Marta sitzt am Fenster und hat ihren Laptop aufgeklappt, aber die Hände nicht auf der Tastatur. Sie schaut gedankenverloren aus dem Fenster. Das ist bei ihr selten ein gutes Zeichen. Nora sitzt ihr gegenüber, die Beine übereinandergeschlagen, den Stift quer über dem Notizblock. Neben Frank sitzt eine Frau aus der Konzernstrategie, die ich nur flüchtig kenne. Frank hat sie als _Note-Taker_ organisiert. Sie soll mitschreiben, damit wir uns ganz auf die Inhalte konzentrieren können.
 
+Sie sitzt nicht zufällig neben Frank. Von dort aus sieht sie den Bildschirm, die Tür und uns. Niemand fragt, warum sie dabei ist. Konzernstrategie ist eine dieser Funktionen, bei denen Anwesenheit bereits eine Antwort ist.
+
 Joachim ist nicht da. Ich habe mich immer noch nicht getraut, mit ihm zu sprechen und ihn zurück ins Projekt zu holen. Ich sehe auf die freien Stühle, als könne einer von ihnen nachträglich erklären, dass diese Abwesenheit kein Problem ist.
 
 Frank kommt zwei Minuten nach Beginn hinein, was bei ihm nie wie Unpünktlichkeit wirkt, sondern wie ein Hinweis darauf, dass vor diesem Termin schon andere, wichtigere Dinge stattgefunden haben. Er legt sein Notebook an den Platz am Kopfende, schließt den Adapter an und sagt: "Gut, dann können wir ja direkt einsteigen."
+
+Meine Agenda liegt noch geschlossen vor mir.
 
 Auf dem Bildschirm erscheint nicht meine Datei.
 
@@ -1372,7 +1376,7 @@ _Skalierungsoption visuelle Qualitätsassistenz_
 
 Darunter: _Arbeitsstand zur Ausarbeitung der Entscheidungsunterlage_.
 
-Was Frank aus meiner Datei gemacht hat sieht sauber aus. Zu sauber. Die gelben Zellen sind verschwunden. Stattdessen gibt es kleine Fußnoten in hellgrau. Die Seite _Nicht abgestimmte Punkte_ ist nicht mehr gut sichtbar, sondern unscheinbar als _OPL_ getarnt. Die beiden Varianten heißen nicht mehr konservativ und Zielbild. Sie heißen _Basisfall_ und _Skalierungsfall_.
+Was Frank aus meiner Datei gemacht hat, sieht sauber aus. Zu sauber. Die gelben Zellen sind verschwunden. Stattdessen gibt es kleine Fußnoten in hellgrau. Die Seite _Nicht abgestimmte Punkte_ ist nicht mehr gut sichtbar, sondern unscheinbar als _OPL_ getarnt. Die beiden Varianten heißen nicht mehr konservativ und Zielbild. Sie heißen _Basisfall_ und _Skalierungsfall_.
 
 Ich starre auf den Begriff _Skalierungsfall_ und merke, dass er deutlich freundlicher klingt als _Hockeystick_.
 
@@ -1393,6 +1397,8 @@ Nora auch nicht.
 Die Frau aus der Konzernstrategie schreibt etwas auf.
 
 "Ich würde vorschlagen", sagt Frank, "wir gehen zuerst durch den Skalierungsfall, dann durch die offenen Annahmen und danach durch die nächsten Arbeitspakete."
+
+Er sagt _vorschlagen_ so, wie Führungskräfte es sagen, wenn sie keine Abstimmung meinen.
 
 Marta hebt den Blick. "Seit wann sind berechtigte Einwände ein Arbeitspaket?"
 
@@ -1446,6 +1452,16 @@ Frank hebt beide Hände, nicht hoch, nur so weit, dass der Raum ihn wieder regis
 
 Die Frau aus der Konzernstrategie schreibt still weiter, was mich noch nervöser macht als jede Wortmeldung.
 
+Ich merke, wie meine Sätze kürzer werden, sobald ich zu ihr hinübersehe. Für Marta und Nora hätte ich mich verteidigt. Für die Konzernstrategie formuliere ich mich.
+
+Sie hebt kurz den Blick. "Soll ich als offenen Punkt aufnehmen: fachliche Abstimmung nachholen?"
+
+Der Satz ist sachlich. Gerade deshalb wirkt er wie eine kleine Drohung. Wenn etwas als offener Punkt in einem Protokoll steht, ist es nicht mehr nur ein Vorwurf. Es wird nachverfolgbar.
+
+"Abstimmung präzisieren", sagt Frank.
+
+Die Frau nickt und schreibt. Aus _nachholen_ wird _präzisieren_, bevor es überhaupt offiziell existiert.
+
 Nach zehn Minuten habe ich drei Sätze gesagt und jeden davon bereut.
 
 Nach fünfzehn Minuten verteidige ich nicht mehr die Datei. Ich verteidige mich.
@@ -1471,6 +1487,8 @@ Für einen Moment bin ich dankbar.
 Dann ergänzt er: "Und ich würde es wieder tun, weil wir sonst immer noch darüber reden würden, ob wir irgendwann über Skalierung reden dürfen."
 
 Die Dankbarkeit bleibt. Das Misstrauen auch.
+
+Marta lehnt sich zurück. Nora sieht auf ihren Stift. Niemand sagt, dass Frank gerade die Verantwortung übernommen und zugleich die Entscheidung nachträglich legitimiert hat. Manche Sätze sind im Raum nur dann wahr, wenn man sie nicht ausspricht.
 
 Nora lehnt sich zurück. "Stopp."
 

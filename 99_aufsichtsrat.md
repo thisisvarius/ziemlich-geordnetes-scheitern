@@ -15,6 +15,7 @@ Name: Hans Klein
 ## Stärke
 - Sehr präzise in der Bewertung von Zahlen, Risiken und politischer Anschlussfähigkeit
 - Wirkt höflich, ruhig und sachlich, wodurch Widerspruch schnell emotional oder unreif aussieht
+- Übt Macht aus, indem er Fragen stellt, Protokollpunkte entstehen lässt und andere die Konsequenzen formulieren lässt
 - Erkennt sofort, wenn eine Initiative zwar interessant klingt, aber noch nicht konzernfähig formuliert ist
 
 ## Schwäche

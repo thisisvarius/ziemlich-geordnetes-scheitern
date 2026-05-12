@@ -50,6 +50,8 @@ Frank sieht ihn an.
 
 "Wir reden seit zwei Wochen über Produkt, Markt und Pilotfähigkeit", sagt Frank. "Und ihr baut ein Feature, das außerhalb unseres Konzerns kein Mensch verwenden kann?"
 
+Er sagt _ihr_, obwohl Marta den Demonstrator baut, Joachim die Architektur kennt und ich den Satz aus der Beraterfolie in unser Protokoll übernommen habe. In Franks Mund wird aus drei Verantwortlichkeiten eine adressierbare Gruppe. Das ist praktisch. Vor allem für den, der gerade davorsteht.
+
 Joachim verzieht keine Miene.
 
 "Ja", sagt er. "Dafür funktioniert es dann wenigstens hier."

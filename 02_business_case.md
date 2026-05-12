@@ -446,6 +446,8 @@ Er blättert durch meine Unterlagen. Dann durch seine. Dann klappt er den Laptop
 
 "Na das, was die da oben jetzt plötzlich sehen wollen." Er tippt mit dem Stift gegen die Wand. "Nachgewiesene Einsparungen, belastbare Rollout-Kosten, Betriebskosten je Werk, Infrastrukturbedarf, sauberer Skalierungspfad. Wir haben Ideen, Gespräche und ein paar Zahlen mit guter Experteneinschätzung. Aber wir haben keine Datenbasis, mit der du einen Aufsichtsrat glücklich machst."
 
+Er sagt _die da oben_ in einem Ton, in dem man sich kurz mutig fühlen kann, solange wirklich niemand von oben im Raum ist.
+
 Triumph liegt keiner in seiner Stimme. Nur die trockene Genugtuung eines Mannes, dessen Misstrauen gerade wieder einmal pünktlich geliefert wurde.
 
 "Dann können wir es auch lassen", sagt er. "Bevor wir denen eine Zahl schicken, die nur geschniegelt genug aussieht. Das zerreißt uns Hans, der Aufsichtsratsvorsitzende, sofort."
