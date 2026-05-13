@@ -48,6 +48,8 @@ include-before:
     
     Dieses Buch ist ein Hobbyprojekt. Es versucht, Erkenntnisse aus zehn Jahren in verschiedenen Führungsrollen in eine unterhaltsame Romanform zu bringen. Es gab kein professionelles Lektorat; entsprechend hat dieses Manuskript sicher noch Ecken und Kanten.
 
+    Figuren, Handlung und Organisationen sind vollständig erfunden. Niemand in diesem Buch soll eine reale Person abbilden, und niemand verhält sich im wirklichen Leben so verdichtet, wie es eine erzählte Szene manchmal braucht. Die Geschichte ist ein Kompromiss aus Lesbarkeit, Dramaturgie und dem Versuch, Management-Lerninhalte nicht als abstrakte Folien, sondern als soziale Situationen erfahrbar zu machen.
+
     Wenn ihr Spaß beim Lesen habt oder Verbesserungsvorschläge machen möchtet, kontaktiert mich gern oder stellt einen Pull Request auf GitHub.
 
     Dieses Buch ist in meiner Freizeit entstanden und wurde mit Unterstützung von LLMs geschrieben.

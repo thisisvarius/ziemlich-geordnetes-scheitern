@@ -257,7 +257,7 @@ Halte einen frühen Charter bewusst knapp. Für den Anfang reichen oft:
 
 **Typische Falle**
 
-Die größte Gefahr ist stillschweigende Uneinigkeit. Wenn Business, Entwicklung und Management unterschiedliche Bilder im Kopf haben, entsteht viel Aktionismus, aber wenig Fortschritt. Noch gefährlicher wird es, wenn eine externe Präsentation diese unterschiedlichen Bilder legitimiert hat. Typische Fehler im Projektmanagement sind:
+Die größte Gefahr ist stillschweigende Uneinigkeit. Wenn Business, Entwicklung und Management unterschiedliche Bilder im Kopf haben, entsteht viel Aktionismus, aber wenig Fortschritt. Noch gefährlicher wird es, wenn eine externe Präsentation diese unterschiedlichen Bilder legitimiert hat. In der Praxis zeigen sich solche Lücken oft an wenigen wiederkehrenden Mustern:
 
 - kein klarer Auftrag oder kein sauber formulierter Charter
 - kein benannter Sponsor für Eskalationen und Rückendeckung
@@ -265,7 +265,7 @@ Die größte Gefahr ist stillschweigende Uneinigkeit. Wenn Business, Entwicklung
 - fehlende Erfahrung im Projektmanagement, obwohl das Vorhaben schon politisch sichtbar ist
 - kein gemeinsames Verständnis darüber, was Erfolg in der nächsten Phase überhaupt bedeutet
 
-Besonders wichtig ist deshalb ein sauber formulierter _Out-of-Scope_. Diese Punkte können schon zum Start des Projektes abgesteckt werden. Natürlich ändern sie sich und müssen nachgehalten werden. So werden Konflikte aber anhand eines gemeinsamen Dokumentes sichtbar und können schneller geklärt oder eskaliert werden.
+Besonders wichtig ist deshalb ein sauber formulierter _Out-of-Scope_. Er muss zu Beginn nicht endgültig sein. Aber er macht früh sichtbar, worüber ihr gerade nicht entscheidet, und verhindert, dass unausgesprochene Erwartungen später als angebliche Zusagen zurückkommen.
 
 **Merksatz**
 

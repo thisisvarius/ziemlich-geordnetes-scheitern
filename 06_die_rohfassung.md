@@ -1672,9 +1672,9 @@ Dann denke ich an Marta und Nora, an den Workshop und an Joachims Namen, den ich
 **Leadership-Nugget der Woche**
 _Corporate Learning & Leadership Enablement_
 
-**Thema:** Jede Botschaft hat mehrere Seiten
+**Thema:** Jede Botschaft wirkt auf mehreren Ebenen
 
-Nach Friedemann Schulz von Thuns Vier-Seiten-Modell enthält jede Nachricht mehrere Ebenen: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In Konflikten reden Menschen häufig über verschiedene Seiten derselben Botschaft.
+Nach Friedemann Schulz von Thuns Vier-Seiten-Modell enthält jede Nachricht mehr als ihren Sachinhalt: Selbstoffenbarung, Beziehung und Appell wirken mit. In Konflikten reden Menschen häufig über verschiedene Seiten derselben Botschaft.
 
 **Warum es für Führung relevant ist**
 
@@ -1682,7 +1682,7 @@ Der Sender verteidigt oft seine Absicht auf der Sachebene, während die Empfäng
 
 **Woran du es erkennst**
 
-Formulierungen wie "Das steht da doch gar nicht", "Das war nur ein Arbeitsstand" oder "Jetzt ist es trotzdem gesetzt" zeigen, dass verschiedene Ebenen gleichzeitig wirken. Der Streit wird erst lösbar, wenn sie getrennt betrachtet werden.
+Formulierungen wie "Das steht da doch gar nicht", "Das war nur ein Arbeitsstand" oder "Jetzt ist es trotzdem gesetzt" zeigen, dass verschiedene Ebenen gleichzeitig wirken. Solange sie vermischt bleiben, verteidigen die einen ihre Absicht und die anderen reagieren auf die Wirkung.
 
 **Was du ausprobieren kannst**
 
@@ -1975,7 +1975,7 @@ Ich stecke die Holzklötze wieder ein.
 **Leadership-Nugget der Woche**
 _Corporate Learning & Leadership Enablement_
 
-**Thema:** Sache klären reicht nicht, wenn Beziehung beschädigt ist
+**Thema:** Sachfragen scheitern oft an der Beziehungsebene
 
 In schwierigen Gesprächen wirken Sachebene und Beziehungsebene gleichzeitig. Die Sachebene fragt: Worum geht es fachlich? Die Beziehungsebene fragt: Was sagt dein Verhalten darüber, wie du mich siehst, einbindest oder behandelst?
 
@@ -1985,7 +1985,7 @@ Wer nur die Sache klärt, kann formal recht haben und trotzdem keine Arbeitsfäh
 
 **Woran du es erkennst**
 
-Eine formal richtige Bitte wird als nachträgliche Instrumentalisierung gehört. Der andere reagiert nicht auf den Auftrag, sondern auf die Geschichte, die davor passiert ist.
+Eine formal richtige Bitte wird als nachträgliche Instrumentalisierung gehört. Der andere reagiert dann nicht nur auf den Auftrag, sondern auf die Geschichte, die davor passiert ist.
 
 **Was du ausprobieren kannst**
 
