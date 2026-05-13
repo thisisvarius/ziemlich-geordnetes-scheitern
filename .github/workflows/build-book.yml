@@ -3,6 +3,8 @@ name: Build book
 on:
   push:
     branches: [main]
+    tags:
+      - "v*"
   pull_request:
   workflow_dispatch:
 
@@ -33,5 +35,13 @@ jobs:
         with:
           name: buch
           path: |
+            buch.pdf
+            buch.epub
+
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
             buch.pdf
             buch.epub
