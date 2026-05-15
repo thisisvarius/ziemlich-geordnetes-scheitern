@@ -110,6 +110,6 @@ Eine OPL schafft Transparenz, wenn sie offene Entscheidungen vorbereitet. Sie wi
 
 **Merksatz**
 
-Wenn ein offener Punkt nur den nächsten offenen Punkt erzeugt, ist die OPL zum Moving Milestone geworden.
+Wenn ein offener Punkt nur den nächsten offenen Punkt und keine Entscheidung erzeugt, ist die OPL zur Verwaltung von Moving Milestone mutiert.
 
 :::
