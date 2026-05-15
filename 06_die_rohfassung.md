@@ -585,7 +585,7 @@ Marta sieht ihn an. "Möchtest du etwas beitragen?"
 "Ich habe Wasserfall erkannt. Mein Soll ist erfüllt", sagt er und geht sich lieber einen Kaffee holen. 
 Ich lächle und höre sofort wieder damit auf, weil die Sache nicht lustig genug ist, um sich darauf auszuruhen. Marta hat mir keinen Aufwand gegeben, wie ich ihn gesucht hatte. Sie hat mir eine andere Art von Planbarkeit gegeben. Keine schöne Zahl, die Frank sofort auf eine Folie ziehen kann. Eher eine Struktur, die erklärt, warum eine schöne Zahl im Moment unseriös wäre.
 
-"Also", sage ich, "ich formuliere es als Lernpfad. Demo stabilisieren. Pilotfähigkeit herstellen. Danach Plattformentscheidung. Für jeden Schritt: feste Kapazität, variabler Umfang, explizite Annahmen."
+"Also", sage ich, "ich formuliere es als iterativen Validierungspfad. Demo stabilisieren. Pilotfähigkeit herstellen. Danach Plattformentscheidung. Für jeden Schritt: feste Kapazität, variabler Umfang, explizite Annahmen."
 
 "Und klare Grenzen", sagt Marta.
 
@@ -611,7 +611,7 @@ In der Datei lösche ich _Marta fragen_.
 
 Dann schreibe ich:
 
-_Technischer Lernpfad_
+_Technischer Validierungspfad_
 
 Darunter:
 
@@ -1191,7 +1191,7 @@ Mir gefällt das. Es wirkt vorsichtig. Fast reif.
 
 Danach kommen die Varianten.
 
-_Variante A: Konservativer Lernpfad._
+_Variante A: Konservativer Validierungspfad._
 
 Martas Welt: Demo stabilisieren, Pilotfähigkeit herstellen, danach Plattformentscheidung. Feste Kapazität, variabler Umfang. Acht bis zwölf Wochen pro Lernschritt. Hoher Pre-Invest, späterer Break-even, viele gelbe Zellen und einige rote, die ich erst einmal stehen lasse, weil sie wenigstens ehrlich aussehen.
 
@@ -1350,7 +1350,7 @@ Unser Workshop ist erst nächste Woche.
 
 Am nächsten Dienstag betrete ich den Workshopraum mit einem Gefühl, das ich für kompetent-vorbereitet halte.
 
-Auf meinem Laptop liegt die Rohfassung. In meinem Notizbuch stehen die offenen Punkte. In meinem Kopf gibt es eine Reihenfolge, die ungefähr so klingt: erst die Annahmen, dann die Varianten, dann die Risiken, dann die Frage, wie wir daraus gemeinsam eine belastbare Wirtschaftsplanung machen. Das alles habe ich sauber in die Tages-Agenda gegossen, die ich gleich vorstellen werde. Ich habe sogar eine kleine Skizze vorbereitet, in der Martas Lernpfad und Noras Pipeline-Zeitachse nebeneinanderstehen. Zwei Linien, zwei Logiken, ein gemeinsamer Plan.
+Auf meinem Laptop liegt die Rohfassung. In meinem Notizbuch stehen die offenen Punkte. In meinem Kopf gibt es eine Reihenfolge, die ungefähr so klingt: erst die Annahmen, dann die Varianten, dann die Risiken, dann die Frage, wie wir daraus gemeinsam eine belastbare Wirtschaftsplanung machen. Das alles habe ich sauber in die Tages-Agenda gegossen, die ich gleich vorstellen werde. Ich habe sogar eine kleine Skizze vorbereitet, in der Martas Validierungspfad und Noras Pipeline-Zeitachse nebeneinanderstehen. Zwei Linien, zwei Logiken, ein gemeinsamer Plan.
 
 Der Raum ist schon fast voll.
 
@@ -1526,7 +1526,7 @@ Frank lächelt dünn. "Ganz falsch ist das ja auch nicht."
 
 "Eben", sagt Nora. "Deshalb sind wir alle so emotional."
 
-Marta nickt langsam. "Auf der Sachebene kann ich mit dem Lernpfad leben. Auf der Beziehungsebene nicht. Da steht: Marta liefert schon irgendwie."
+Marta nickt langsam. "Auf der Sachebene kann ich mit dem Validierungspfad leben. Auf der Beziehungsebene nicht. Da steht: Marta liefert schon irgendwie."
 
 "Das steht da nicht", sage ich.
 
@@ -1670,6 +1670,7 @@ Dann denke ich an Marta und Nora, an den Workshop und an Joachims Namen, den ich
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Jede Botschaft wirkt auf mehreren Ebenen
@@ -1948,10 +1949,6 @@ Joachim betrachtet die beiden Holzklötze.
 
 "Ich bin nicht wieder dabei", sagt er. "Noch nicht."
 
-"Nicht dasselbe."
-
-"Nein", sagt er. "Aber es ist vielleicht ehrlicher."
-
 Er nimmt den Sach-Klotz und stellt ihn neben den Beziehungsklotz, Kante an Kante.
 
 "Ich helfe dir, die Rechnung so zu bauen, dass sie nicht beim ersten ernsthaften Blick auseinanderfällt", sagt er. "Und du sorgst dafür, dass ich dabei nicht wie der Mann aussehe, der nur die Party beendet."
@@ -1968,11 +1965,12 @@ Ich stecke die Holzklötze wieder ein.
 
 "Die ist wirklich hässlich."
 
-"Gut", sagt Joachim. "Dann erkennt man wenigstens noch, wo sie ehrlich ist."
+"Gut", sagt Joachim. "Dann ist das wenigstens eine Version auf der man aufbauen kann."
 
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Sachfragen scheitern oft an der Beziehungsebene

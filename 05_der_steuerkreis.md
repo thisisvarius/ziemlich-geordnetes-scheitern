@@ -491,6 +491,7 @@ Stattdessen folge ich Frank, weil man Türen nicht lange offen hält, wenn man e
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Wer nicht im Raum ist, wird zur Randnotiz

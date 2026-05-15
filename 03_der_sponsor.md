@@ -737,6 +737,7 @@ Kein Drama. Keine Kündigung. Keine Tür, die laut ins Schloss fällt. Nur ein N
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Sponsorship schlägt unverbindliche Zustimmung

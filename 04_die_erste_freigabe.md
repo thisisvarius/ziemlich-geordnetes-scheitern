@@ -229,6 +229,7 @@ Wir arbeiten immer noch gleichzeitig. Aber jetzt wenigstens an demselben Vorhabe
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Der Project Charter ist kein Formular
@@ -571,6 +572,7 @@ Aber aus der großen Produktgeschichte ist ein Versuch geworden: klein genug, um
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Große Versprechen brauchen kleine Lernschritte

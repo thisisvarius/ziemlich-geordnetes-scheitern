@@ -279,6 +279,7 @@ Er lehnt sich zurück.
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Ein Wertversprechen ist kein Slogan
@@ -647,6 +648,7 @@ Als die Zahlen auf dem Tisch der Entscheider liegen, liegen unsere Annahmen nich
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Business Cases sind strukturierte Zukunftsbehauptungen

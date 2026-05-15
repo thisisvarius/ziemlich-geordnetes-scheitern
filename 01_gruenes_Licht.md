@@ -306,6 +306,7 @@ Ich nehme die Ausdrucke. Nicht weil Eddy mich überzeugt hat. Weil Frank mich an
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Stakeholder sind keine Kästchen im Organigramm
@@ -801,6 +802,7 @@ Nur hatte ich nicht gemerkt, was ich gestaltete.
 ::: Theorie
 
 **Leadership-Nugget der Woche**
+
 _Corporate Learning & Leadership Enablement_
 
 **Thema:** Fachliche Einwände sind ein Frühwarnsystem
