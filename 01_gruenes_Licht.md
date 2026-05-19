@@ -63,7 +63,7 @@ Er sieht mich an, als hätte ich die falsche Frage gestellt. "Für die Hannover 
 
 Er hat recht.
 
-Unser Messeauftritt besteht bisher aus drei Bildschirmen, einer müden PowerPoint und sehr viel Gerede über die nächste industrielle Revolution, die angeblich unmittelbar bevorstehen. Auf den Folien ist von Vernetzung, Zukunft und Transformation die Rede. Nur warum ausgerechnet wir dabei eine Rolle spielen sollen, kann niemand wirklich erklären.
+Unser Messeauftritt besteht bisher aus drei Bildschirmen, einer müden PowerPoint und sehr viel Gerede über die nächste industrielle Revolution, die angeblich unmittelbar bevorsteht. Auf den Folien ist von Vernetzung, Zukunft und Transformation die Rede. Nur warum ausgerechnet wir dabei eine Rolle spielen sollen, kann niemand wirklich erklären.
 
 Frank legt eine Hand auf die Tischkante und schaut kurz aus dem Fenster, als liege die Lösung irgendwo zwischen Parkplatz, Baustellenkränen und Werkstor.
 
