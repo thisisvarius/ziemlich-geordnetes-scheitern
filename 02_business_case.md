@@ -332,7 +332,7 @@ Die eigentliche Zusammenarbeit zwischen Joachim und mir beginnt mit einer Outloo
 
 Im Text steht nichts weiter als ein weitergeleiteter Mailverlauf.
 
-Frank hat uns einen Protokollauszug mit OPL geschickt. Natürlich bekommen wir nur die Punkte, die uns betreffen. Der Ausschnitt reicht, um zu wissen, dass oberhalb der eigenen Gehaltsklasse etwas beschlossen wurde. Alles andere bleibt draußen: worüber sonst gesprochen wurde, wer widersprochen hat, auf welcher Grundlage die Entscheidung fiel.
+Frank hat uns einen Protokollauszug mit OPL, also einer "Liste von offenen Punkten" geschickt. Natürlich bekommen wir nur die Punkte, die uns betreffen. Der Ausschnitt reicht, um zu wissen, dass oberhalb der eigenen Gehaltsklasse etwas beschlossen wurde. Alles andere bleibt draußen: worüber sonst gesprochen wurde, wer widersprochen hat, auf welcher Grundlage die Entscheidung fiel.
 
 Oben steht eine nüchterne Passage aus dem Protokoll. Keine Wertung, kein Ton, keine Person. Nur Beschlusssprache.
 
