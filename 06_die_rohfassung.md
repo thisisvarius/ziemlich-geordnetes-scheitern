@@ -56,7 +56,7 @@ Ich habe immer noch keine Ahnung, wie es weitergehen soll. Also kopiere ich unse
 
 Erst jetzt fällt mir auf, dass ich keine Ahnung habe, wie Joachim das gemacht hatte. Er hatte irgendwie Annahmen verformelt.
 
-Damals hatte mir das gereicht. Ein grober Case, drei Szenarien, ein paar Annahmen, die sichtbar genug waren, um nicht wie reine Fantasie zu wirken. Jetzt reicht es nicht mehr. Hans will keine Plausibilität mehr. Frank braucht eine Richtung. Nora wird nach Pipeline fragen. Marta wird nach Menschen fragen. Und ich sitze vor derselben Zahl und merke, dass sie nicht mehr nur begründet werden muss.
+Damals hatte mir das gereicht. Ein grober Case, drei Szenarien, ein paar Annahmen, die sichtbar genug waren, um nicht wie reine Fantasie zu wirken. Jetzt reicht es nicht mehr. Hans will keine Plausibilität mehr. Frank braucht eine Richtung. Unsere neue Sales-Leitung Nora wird nach einer Pipeline fragen. Marta wird nach Menschen fragen. Und ich sitze vor derselben Zahl und merke, dass sie nicht mehr nur begründet werden muss.
 
 Der Case muss in operative Aufgaben zerlegt werden. Aus dem groben Business Case muss eine Wirtschaftsplanung werden, die man verfolgen kann. Aus der Jahres-Grobplanung müssen Quartale mit Meilensteinen werden.
 
@@ -124,7 +124,7 @@ Joachims Auto steht jetzt auf seinem Parkplatz. Er selbst ist nicht mehr zu sehe
 
 Ungünstig.
 
-Da kommt Nora, unsere neue Sales-Leitung, ins Büro. Frank führt sie herum, um sie vorzustellen. Er hatte sich beim letzten Steuerkreis die Freigabe für die Stellenausschreibung geholt und sie dann zügig besetzt, bevor überhaupt jemand davon mitbekam und sein Handeln hätte verhindern können.
+Da kommt Nora ins Büro. Frank führt sie herum, um sie vorzustellen. Er hatte sich beim letzten Steuerkreis die Freigabe für die Stellenausschreibung geholt und sie dann zügig besetzt, bevor überhaupt jemand davon mitbekam und sein Handeln hätte verhindern können.
 
 Sie kommen an meinen Tisch.
 
